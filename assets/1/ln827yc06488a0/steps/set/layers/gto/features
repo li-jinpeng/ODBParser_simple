@@ -1,0 +1,16 @@
+#
+#Feature symbol names
+#
+$0 s47.37
+
+#
+#Feature attribute names
+#
+@0 .nomenclature
+
+#
+#Layer features
+#
+P 10.9481247 8.43210591 0 P 0 7
+P 10.9481247 8.31399567 0 P 0 7
+T 4.26346289 8.58652785 standard P 1 0.04 0.05 0.50000 '$$JOB' 1;0

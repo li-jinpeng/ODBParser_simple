@@ -1,0 +1,63 @@
+Date : 29 Jun 2021
+Time : 17:11
+
+
+----------------------------------------------------------------------
+(*)  1. Path : (File) C:/Users/Administrator/Desktop/01.53.452905-1.0 Panel.dxf
+----------------------------------------------------------------------
+        File size         : 12906994 Bytes
+        Format            : DXF
+        Step  name        : set
+        Layer name        : 01.53.452905-1.0-panel.dxf
+
+        Start translation : 17:10:59
+        End   translation : 17:11:04
+---------------------------------------------------------------------
+        DXF Translation Warnings
+        ========================
+        *** Zero-size polygons were skipped.
+            - See Log file for line numbers.
+        *** Some illegal text characters were replaced by '?'s.
+            - See Log file for line numbers.
+        *** Some 3D entities were ignored 
+            - See Log file for line numbers.
+        *** Unsupported extended data was ignored 
+            - See Log file for detailed summary.
+        *** Illegal layer names were found.
+            - See Log file for line numbers.
+        *** Not solid HATCH was found 
+            - See Log file for line numbers.
+        *** Font was not found.
+            - See Log file .
+
+         
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+         iol_dxf_round_cap - yes
+
+         iol_dxf_circle_to_pad - no
+
+         iol_dxf_poly_to_surface - yes
+
+         iol_dxf_separate_frozen_layers - no
+
+         iol_dxf_single_layer - no
+
+         iol_dxf_default_width - 1.0 (Mils / Micron*3) 
+
+         iol_dxf_round_line - 0
+
+         iol_dxf_model_only - no
+
+         iol_dxf_default_shx_bigfont - none
+
+         iol_dxf_input_empty_text - yes
+
+         iol_dxf_ttf_default_path - none
+
+         
+ ==========================================================
+
+----------------------------------------------------------------------
+

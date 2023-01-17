@@ -1,0 +1,26 @@
+########5 start########
+set StepName = "5"
+set Lenght = 56
+set Width = 6
+set Drl1X = 10.54
+set Drl1Y = 5
+set TestHole_Size = 1.1
+set Drl2X = 5
+set Drl2Y = 5
+set ToolHole1_Size = 2.45
+set Drl3X = 175
+set Drl3Y = 2.5
+set ToolHole2_Size = 2.45
+set Drl4X = 175
+set Drl4Y = 7.5
+set ToolHole3_Size = 2.45
+set IsGroup = "False"
+set ChaOnly = "True"
+set Cha_Layer = "gtl"
+set Cha_Pin1 = "l2"
+set Cha_Pin2 = ""
+set Cha_TraceWidth = "0.1143"
+set Cha_TraceSpace = "0.19558"
+set Cha_Compensation = "0.03048"
+set Cha_ImpedanceValue = "100 OHM +/-10%"
+########5 end########

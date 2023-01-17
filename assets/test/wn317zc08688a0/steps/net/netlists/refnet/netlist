@@ -1,0 +1,945 @@
+H optimize n staggered n
+@ver1
+$0 NET00000
+$1 NET00001
+$2 NET00002
+$3 NET00003
+$4 NET00004
+$5 NET00005
+$6 NET00006
+$7 NET00007
+$8 NET00008
+$9 NET00009
+$10 NET00010
+$11 NET00011
+$12 NET00012
+$13 NET00013
+$14 NET00014
+$15 NET00015
+$16 NET00016
+$17 NET00017
+$18 NET00018
+$19 NET00019
+$20 NET00020
+$21 NET00021
+$22 NET00022
+$23 NET00023
+$24 NET00024
+$25 NET00025
+$26 NET00026
+$27 NET00027
+$28 NET00028
+$29 NET00029
+$30 NET00030
+$31 NET00031
+$32 NET00032
+$33 NET00033
+$34 NET00034
+$35 NET00035
+$36 NET00036
+$37 NET00037
+$38 NET00038
+$39 NET00039
+$40 NET00040
+$41 NET00041
+$42 NET00042
+$43 NET00043
+$44 NET00044
+$45 NET00045
+$46 NET00046
+$47 NET00047
+$48 NET00048
+$49 NET00049
+$50 NET00050
+$51 NET00051
+$52 NET00052
+$53 NET00053
+$54 NET00054
+$55 NET00055
+$56 NET00056
+$57 NET00057
+$58 NET00058
+$59 NET00059
+$60 NET00060
+$61 NET00061
+$62 NET00062
+$63 NET00063
+$64 NET00064
+$65 NET00065
+$66 NET00066
+$67 NET00067
+$68 NET00068
+$69 NET00069
+$70 NET00070
+$71 NET00071
+$72 NET00072
+$73 NET00073
+$74 NET00074
+$75 NET00075
+$76 NET00076
+$77 NET00077
+$78 NET00078
+$79 NET00079
+$80 NET00080
+$81 NET00081
+$82 NET00082
+$83 NET00083
+$84 NET00084
+$85 NET00085
+$86 NET00086
+$87 NET00087
+$88 NET00088
+$89 NET00089
+$90 NET00090
+$91 NET00091
+$92 NET00092
+$93 NET00093
+$94 NET00094
+$95 NET00095
+$96 NET00096
+$97 NET00097
+$98 NET00098
+$99 NET00099
+$100 NET00100
+$101 NET00101
+$102 NET00102
+$103 NET00103
+$104 NET00104
+$105 NET00105
+$106 NET00106
+$107 NET00107
+$108 NET00108
+$109 NET00109
+$110 NET00110
+$111 NET00111
+#
+#Netlist points
+#
+0 0 3.0787402 3.5206693 T 0.1102362 0.0551181 e e staggered 0 0 0  is_shrink=n is_pad=y is_drl_pad=y
+0 0 3.0059055 3.1633858 T 0.2913386 0.0551181 e e staggered 0 0 0  is_shrink=n is_pad=y is_drl_pad=y
+0 0 3.9092913 3.5210236 T 0.0393701 0.0275591 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 3.3944882 3.2284646 T 0.0984252 0.0944882 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 3.6645276 3.3198031 T 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 2.6574803 3.1574803 T 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 3.2047244 3.2637795 T 0.0787402 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 3.5650787 3.2971693 T 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 4.2231496 3.0004724 T 0.0669291 0.2125984 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 4.2254331 2.6466142 T 0.0669291 0.2125984 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 4.3350748 3.2880551 T 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 3.8096063 2.6072441 T 0.0598425 0.0700787 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 4.0720748 3.4895276 T 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 4.1575354 3.4895276 T 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 3.8913386 3.4070866 T 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+0 0.019685 3.6729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.019685 2.7729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.019685 2.6729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.019685 4.6729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.019685 4.5729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.019685 4.4729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.019685 4.3729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 4.9001969 4.1359055 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 4.9001969 3.8583465 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0629921 1.889252 4.0929134 B e e  arsize_top=0.0354331 arsize_bot=0.0354331 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 3.8776378 3.5996457 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 3.5620472 3.2637795 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 3.6645276 3.2662087 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 3.0828346 3.5146063 B e e  arsize_top=0.0155906 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 3.0828346 3.4273425 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 3.0828346 3.3400787 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 3.0828346 3.252815 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 3.0828346 3.1655512 B e e  arsize_top=0.0194882 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 2.9480709 3.1655512 B e e  arsize_top=0.0194882 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 2.9480709 3.252815 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 2.9480709 3.3400787 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 2.9480709 3.4273425 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 2.9480709 3.5146063 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 2.8296063 3.5146063 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 2.8296063 3.4273425 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 2.8296063 3.3400787 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 2.8296063 3.252815 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 2.8296063 3.1655512 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 2.4409331 4.0223071 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 0.836378 3.9411811 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 -0.0620866 2.8900787 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 -0.1732677 2.0818504 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0629921 -0.0782283 1.337 B e e  arsize_top=0.0354331 arsize_bot=0.0354331 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 -0.1705118 1.4851969 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 1.8019685 3.8548425 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 7.4322638 3.1424724 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 7.689685 3.1424724 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0629921 7.5585433 2.5181024 B e e  arsize_top=0.0354331 arsize_bot=0.0354331 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.015748 7.4355079 1.8183386 B e e  arsize_top=0.0137795 arsize_bot=0.0137795 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0374016 7.0087402 2.2931417 B e e  arsize_top=0.0570866 arsize_bot=0.0570866 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 4.3953937 3.2884252 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 4.0988189 3.1897638 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 4.0988189 3.2338189 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 4.0392126 3.2338189 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 4.0392126 3.1897638 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 3.9866535 3.1897638 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 3.9866535 3.2338189 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 3.9302756 3.2338189 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 3.9302756 3.1897638 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 3.8719291 3.1897638 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 3.8719291 3.2338189 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 3.9601575 2.7971102 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.019685 3.6662598 -0.7868898 B e e  arsize_top=0.015748 arsize_bot=0.015748 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 4.551126 1.4376063 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0314961 2.6228346 1.261811 B e e  arsize_top=0.0393701 arsize_bot=0.0393701 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0629921 4.0590551 -0.8503937 B e e  arsize_top=0.0354331 arsize_bot=0.0354331 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 4.2120079 0.4688583 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 4.2120079 0.424122 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 4.2120079 0.3793819 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 4.2120079 0.3346457 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0314961 2.6228346 0.861811 B e e  arsize_top=0.0393701 arsize_bot=0.0393701 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.019685 0.7271654 1.5167717 B e e  arsize_top=0.015748 arsize_bot=0.015748 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 0.2215354 1.4437795 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 0.1820945 1.1740157 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.023622 0.1794094 0.507874 B e e  arsize_top=0.0177165 arsize_bot=0.0177165 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.023622 0.1794094 0.1850394 B e e  arsize_top=0.0177165 arsize_bot=0.0177165 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 4.1575354 3.4448819 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.0059055 3.8902362 3.4477953 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+0 0.019685 3.9729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+0 0 4.1519291 0.955 D 0.0393701 0.0393701 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 4.168189 1.0628268 D 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 1.7559055 3.8425197 D 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 1.8582677 3.8425197 D 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 0.9164961 3.1057087 D 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 0.9432677 3.2110236 D 0.0393701 0.0393701 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 7.2705118 2.4222441 D 0.1079921 0.085 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 7.6122047 1.5613386 D 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 3.403937 0.1774803 D 0.0393701 0.0393701 e e staggered 0 0 0  is_shrink=n is_pad=y
+0 0 3.4227165 0.299685 D 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 3.3944882 3.4741339 T 0.0984252 0.0944882 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 3.6645276 3.3827953 T 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 3.2047244 3.4291339 T 0.0787402 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 3.5650787 3.405437 T 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 2.6538583 3.574685 T 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 3.076811 2.2958661 T 0.0787402 0.0787402 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 2.9052756 2.3079921 T 0.1079921 0.085 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 2.7537795 2.2374016 T 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+1 0.0059055 3.5629921 3.6614173 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 3.6811024 3.5826772 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 3.6811024 3.5433071 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 3.6811024 3.503937 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 3.6811024 3.4645669 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 3.6811024 3.6220472 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 3.6811024 3.6614173 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 3.6220472 3.5826772 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 3.5629921 3.5826772 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 3.5629921 3.5433071 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 3.5629921 3.503937 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 3.5629921 3.4645669 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 3.6220472 3.4645669 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 3.6220472 3.503937 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 3.6220472 3.6220472 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 3.5629921 3.6220472 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 3.6220472 3.5433071 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 3.6220472 3.6614173 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 2.6498425 3.6859449 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 2.6902362 3.6859449 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 2.6902362 3.6414567 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 2.6498425 3.6414567 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 2.8209961 2.307126 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 2.727 2.307126 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0314961 2.5255906 2.1230315 B e e  arsize_top=0.023622 arsize_bot=0.023622 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 2.7739961 2.307126 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 2.68 2.307126 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0314961 4.199685 1.5864488 B e e  arsize_top=0.023622 arsize_bot=0.023622 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.023622 0.6423228 3.2568898 B e e  arsize_top=0.023622 arsize_bot=0.023622 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.023622 4.6683071 0.032874 B e e  arsize_top=0.023622 arsize_bot=0.023622 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.023622 4.1282244 0.4614488 B e e  arsize_top=0.0216535 arsize_bot=0.0216535 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 0.6479921 0.1938976 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 0.1752362 3.4435039 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.019685 4.3729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.019685 4.4729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0314961 0.3720472 2.9685039 B e e  arsize_top=0.023622 arsize_bot=0.023622 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 4.934685 1.119252 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 4.8678858 1.119252 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 4.8010906 1.119252 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 4.7342913 1.119252 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 4.7081299 0.5486575 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 4.7081299 0.4167126 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 4.7081299 0.4606929 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+1 0.0059055 4.7081299 0.5046732 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+1 0 1.108189 3.4070472 D 0.0787402 0.0787402 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 0.9232283 3.3520472 D 0.1079921 0.085 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 0.7825945 3.4025551 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 0.2435039 3.5167717 D 0.0787402 0.0787402 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 0.2352362 3.3515748 D 0.085 0.1079921 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 0.2887126 3.1987874 D 0.0374016 0.0649606 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 3.9902008 1.5528386 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 3.6659843 1.5774409 D 0.0787402 0.0787402 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 3.8445276 1.5857087 D 0.1079921 0.085 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 3.9802795 0.306815 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 3.6825591 0.3215748 D 0.0787402 0.0787402 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 3.8488189 0.3487008 D 0.1079921 0.085 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 4.7985827 0.4876772 D 0.0787402 0.0787402 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 4.7841732 0.3320866 D 0.085 0.1079921 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 4.8317283 0.1914213 D 0.0374016 0.0649606 e e staggered 0 0 0  is_shrink=n is_pad=y
+1 0 0.6496063 0.1496063 D 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+2 0 3.8069291 3.483622 T 0.0393701 0.0275591 e e staggered 0 0 0  is_shrink=n is_pad=y
+2 0 3.981811 2.2959055 T 0.0787402 0.0787402 e e staggered 0 0 0  is_shrink=n is_pad=y
+2 0 4.3350787 3.4895276 T 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+2 0 4.2429921 3.4895276 T 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+2 0 4.3350748 3.3963228 T 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+2 0 3.7975551 2.8471693 T 0.0314961 0.0255906 e e staggered 0 0 0  is_shrink=n is_pad=y
+2 0 3.8454724 2.274252 T 0.0629921 0.0511811 e e staggered 0 0 0  is_shrink=n is_pad=y
+2 0 3.8283465 3.4070866 T 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+2 0 3.7322835 2.3387402 T 0.0275591 0.0787402 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+2 0.0059055 4.4108661 3.4448819 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+2 0.0059055 3.844685 2.3244882 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+2 0.0059055 3.8283465 3.3477756 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+2 0.0059055 0.4694685 3.7826575 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+2 0.0059055 2.2588976 4.0401181 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+2 0.0059055 4.2841614 1.1338583 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+2 0.0059055 4.3756299 1.08 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+2 0.0059055 7.8333465 1.5437008 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+2 0 7.672063 1.3653543 D 0.023622 0.1574803 e e staggered 0 0 0  is_shrink=n is_pad=y
+2 0 4.2385433 0.9943701 D 0.0393701 0.0393701 e e staggered 0 0 0  is_shrink=n is_pad=y
+2 0 4.2311811 1.0628268 D 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+2 0 0.8566535 3.1716535 D 0.0393701 0.0393701 e e staggered 0 0 0  is_shrink=n is_pad=y
+2 0 0.8535039 3.1057087 D 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+2 0 3.4905512 0.2168504 D 0.0393701 0.0393701 e e staggered 0 0 0  is_shrink=n is_pad=y
+2 0 3.4857087 0.299685 D 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+3 0.023622 5.7543701 2.3427559 B e e  arsize_top=0.015748 arsize_bot=0.015748 is_shrink=n is_pierce=y
+@s gtl gbl
+3 0.019685 5.7406299 2.6316142 B e e  arsize_top=0.015748 arsize_bot=0.015748 is_shrink=n is_pierce=y
+@s gtl gbl
+3 0.019685 3.764685 -0.4916142 B e e  arsize_top=0.015748 arsize_bot=0.015748 is_shrink=n is_pierce=y
+@s gtl gbl
+3 0.019685 5.1498425 2.6290551 B e e  arsize_top=0.0098425 arsize_bot=0.0098425 is_shrink=n is_pierce=y
+@s gtl gbl
+3 0.0413152 4.5182991 -0.5750234 B e e  arsize_top=0.0393701 arsize_bot=0.0393701 is_shrink=n is_pierce=y
+@s gtl gbl
+3 0.0314961 2.2228346 1.261811 B e e  arsize_top=0.0393701 arsize_bot=0.0393701 is_shrink=n is_pierce=y
+@s gtl gbl
+3 0.0314961 2.2228346 0.861811 B e e  arsize_top=0.0393701 arsize_bot=0.0393701 is_shrink=n is_pierce=y
+@s gtl gbl
+3 0.0059055 2.9460157 -0.1513228 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+3 0.0059055 1.7470984 3.0580748 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+3 0.0059055 0.6348819 2.6671654 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+3 0 3.1356339 -0.329878 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+3 0 1.6959882 3.0580748 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+3 0 2.2395276 1.4820866 D 0.1181102 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+3 0.019685 2.2228346 1.1201181 D e e  arsize_top=0 arsize_bot=0 is_shrink=n is_pad=y
+3 0 0.6336969 2.7176417 D 0.0374016 0.0649606 e e staggered 0 0 0  is_shrink=n is_pad=y
+4 0 3.9866142 3.4895276 T 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+4 0 3.9092913 3.4826378 T 0.0393701 0.0255906 e e staggered 0 0 0  is_shrink=n is_pad=y
+4 0 3.8069291 3.5584252 T 0.0393701 0.0275591 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+4 0.0059055 3.7729134 3.596811 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+4 0.0059055 0.6525197 0.3896063 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+4 0.0059055 -0.0233071 2.7316142 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+4 0.0059055 1.8216063 3.7792992 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+4 0 2.9673622 0.174685 D 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+4 0 2.8674055 0.1574449 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+4 0 -0.1166181 2.6524764 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+4 0 -0.0235039 2.6904331 D 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+5 0.023622 4.8685433 2.3427559 B e e  arsize_top=0.015748 arsize_bot=0.015748 is_shrink=n is_pierce=y
+@s gtl gbl
+5 0.019685 5.4453543 2.7300394 B e e  arsize_top=0.015748 arsize_bot=0.015748 is_shrink=n is_pierce=y
+@s gtl gbl
+5 0.019685 1.0224409 1.4183465 B e e  arsize_top=0.015748 arsize_bot=0.015748 is_shrink=n is_pierce=y
+@s gtl gbl
+5 0.019685 4.8348819 2.6290551 B e e  arsize_top=0.0098425 arsize_bot=0.0098425 is_shrink=n is_pierce=y
+@s gtl gbl
+5 0.0314776 1.2539185 1.5993983 B e e  arsize_top=0.0374016 arsize_bot=0.0374016 is_shrink=n is_pierce=y is_slot=y
+@s gtl gbl
+5 0.0314961 1.0228346 1.261811 B e e  arsize_top=0.0393701 arsize_bot=0.0393701 is_shrink=n is_pierce=y
+@s gtl gbl
+5 0.0314961 1.0228346 0.861811 B e e  arsize_top=0.0393701 arsize_bot=0.0393701 is_shrink=n is_pierce=y
+@s gtl gbl
+5 0.0059055 1.9845787 3.0580748 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+5 0 1.9322087 3.0580748 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+5 0 0.4605512 1.5177559 D 0.1181102 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+5 0.019685 1.0224409 1.1201181 D e e  arsize_top=0 arsize_bot=0 is_shrink=n is_pad=y
+6 0 3.519685 2.1025197 T 0.0275591 0.0787402 e e staggered 0 0 0  is_shrink=n is_pad=y
+6 0 1.5766929 2.6439764 T 0.0492126 0.1181102 e e staggered 0 0 0  is_shrink=n is_pad=y
+6 0 1.9211811 2.8276772 T 0.0492126 0.1181102 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+6 0.0059055 3.4691732 2.1030315 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+6 0.0059055 2.8362874 2.5234646 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+6 0.0059055 4.3128268 0.6379921 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+6 0.0059055 4.3672047 0.1437402 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+6 0 4.7816929 -0.3680315 D 0.0492126 0.1181102 e e staggered 0 0 0  is_shrink=n is_pad=y
+6 0 4.2609843 -0.2692126 D 0.0492126 0.1181102 e e staggered 0 0 0  is_shrink=n is_pad=y
+7 0 2.3268504 2.6766535 T 0.0629921 0.1377953 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+7 0.0059055 2.267874 2.6767323 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+7 0.0059055 1.2362598 2.7420472 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+7 0.0059055 1.2014173 2.0356693 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+7 0 1.2495276 2.0356693 D 0.0629921 0.1377953 e e staggered 0 0 0  is_shrink=n is_pad=y
+7 0 1.1797638 2.7866535 D 0.0629921 0.1377953 e e staggered 0 0 0  is_shrink=n is_pad=y
+7 0 1.4080709 2.8503543 D 0.1377953 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+7 0 1.9479134 2.819685 D 0.1377953 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+8 0.0373956 1.1151537 3.8450727 B e e  arsize_top=0.0393701 arsize_bot=0.0393701 is_shrink=n is_pierce=y
+@s gtl gbl
+8 0.0314961 1.4228346 1.261811 B e e  arsize_top=0.0393701 arsize_bot=0.0393701 is_shrink=n is_pierce=y
+@s gtl gbl
+8 0.0314961 1.4228346 0.861811 B e e  arsize_top=0.0393701 arsize_bot=0.0393701 is_shrink=n is_pierce=y
+@s gtl gbl
+8 0.0314777 0.8956582 1.696832 B e e  arsize_top=0.0374016 arsize_bot=0.0374016 is_shrink=n is_pierce=y
+@s gtl gbl
+8 0.0059055 0.7837047 2.4981575 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+8 0.019685 1.4129921 1.1201181 D e e  arsize_top=0 arsize_bot=0 is_shrink=n is_pad=y
+8 0 1.4320079 3.8775984 D 0.1181102 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+8 0 0.6336969 2.4698465 D 0.0374016 0.0649606 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+9 0.019685 4.5729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+9 0.0059055 0.4001969 3.7029134 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+9 0.0314961 0.6712598 2.9685039 B e e  arsize_top=0.023622 arsize_bot=0.023622 is_shrink=n is_pierce=y
+@s gtl gbl
+9 0.0059055 0.4009843 3.654685 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+9 0 0.4009843 3.5167717 D 0.0787402 0.0787402 e e staggered 0 0 0  is_shrink=n is_pad=y
+9 0 0.409252 3.3515748 D 0.085 0.1079921 e e staggered 0 0 0  is_shrink=n is_pad=y
+9 0 0.3969803 3.1987874 D 0.0374016 0.0649606 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+10 0.0413152 3.5203738 0.6114556 B e e  arsize_top=0.0393701 arsize_bot=0.0393701 is_shrink=n is_pierce=y is_slot=y
+@s gtl gbl
+10 0.0314776 2.928013 1.0628156 B e e  arsize_top=0.0374016 arsize_bot=0.0374016 is_shrink=n is_pierce=y is_slot=y
+@s gtl gbl
+10 0.0314961 1.8228346 0.861811 B e e  arsize_top=0.0393701 arsize_bot=0.0393701 is_shrink=n is_pierce=y
+@s gtl gbl
+10 0.0314961 1.8228346 1.261811 B e e  arsize_top=0.0393701 arsize_bot=0.0393701 is_shrink=n is_pierce=y
+10 0 3.135626 0.7733031 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+10 0 1.974252 1.4844882 D 0.1181102 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+10 0.019685 1.8273228 1.1201181 D e e  arsize_top=0 arsize_bot=0 is_shrink=n is_pad=y
+@s gtl gbl
+11 0.0314961 4.199685 1.2872362 B e e  arsize_top=0.023622 arsize_bot=0.023622 is_shrink=n is_pierce=y
+@s gtl gbl
+11 0.0059055 4.0720748 3.1225984 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+11 0.019685 4.6729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+11 0 3.6659843 1.4199606 D 0.0787402 0.0787402 e e staggered 0 0 0  is_shrink=n is_pad=y
+11 0 3.8445276 1.4116929 D 0.1079921 0.085 e e staggered 0 0 0  is_shrink=n is_pad=y
+11 0 3.9902008 1.4445709 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+12 0 2.4372835 3.2784252 T 0.1079921 0.085 e e staggered 0 0 0  is_shrink=n is_pad=y
+12 0 2.6574803 3.2204724 T 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+12 0 2.7480315 3.2637795 T 0.0787402 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+12 0 2.5679094 3.289374 T 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+12 0 2.6535394 3.289374 T 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+12 0.0255906 2.2145669 3.1889764 B e e  arsize_top=0.019685 arsize_bot=0.019685 is_shrink=n is_pierce=y
+13 0 3.076811 2.1383858 T 0.0787402 0.0787402 e e staggered 0 0 0  is_shrink=n is_pad=y
+13 0 2.9052756 2.1339764 T 0.1079921 0.085 e e staggered 0 0 0  is_shrink=n is_pad=y
+13 0 2.7537795 2.1291339 T 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+13 0.0314961 2.5255906 1.8238189 B e e  arsize_top=0.023622 arsize_bot=0.023622 is_shrink=n is_pierce=y
+@s gtl gbl
+13 0.019685 3.5729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+13 0.0059055 3.0011811 3.675315 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+14 0 3.433189 -0.388189 T 0.0629921 0.1574803 e e staggered 0 0 0  is_shrink=n is_pad=y
+14 0 3.433189 -0.6795276 T 0.0629921 0.1574803 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+14 0.0059055 0.6272244 0.3333543 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+14 0.0216535 7.5677953 2.8147953 B e e  arsize_top=0.019685 arsize_bot=0.019685 is_shrink=n is_pierce=y
+@s gtl gbl
+14 0.019685 4.0729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+15 0.023622 0.0413386 1.0511811 B e e  arsize_top=0.0177165 arsize_bot=0.0177165 is_shrink=n is_pierce=y
+@s gtl gbl
+15 0.019685 3.4729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+15 0.023622 0.1791339 1.0511811 B e e  arsize_top=0.0177165 arsize_bot=0.0177165 is_shrink=n is_pierce=y
+@s gtl gbl
+15 0.023622 0.1791339 0.7283465 B e e  arsize_top=0.0177165 arsize_bot=0.0177165 is_shrink=n is_pierce=y
+@s gtl gbl
+15 0.023622 0.0413386 0.7283465 B e e  arsize_top=0.0177165 arsize_bot=0.0177165 is_shrink=n is_pierce=y
+16 0 3.7322835 2.1025197 T 0.0275591 0.0787402 e e staggered 0 0 0  is_shrink=n is_pad=y
+16 0 3.8454724 2.1600787 T 0.0629921 0.0511811 e e staggered 0 0 0  is_shrink=n is_pad=y
+16 0 3.981811 2.1384252 T 0.0787402 0.0787402 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+16 0.0059055 3.9729134 3.1225984 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+16 0.019685 3.7729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+17 0.019685 3.6729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+17 0.023622 0.6423228 3.6568898 B e e  arsize_top=0.023622 arsize_bot=0.023622 is_shrink=n is_pierce=y
+17 0 1.108189 3.5645276 D 0.0787402 0.0787402 e e staggered 0 0 0  is_shrink=n is_pad=y
+17 0 0.9232283 3.526063 D 0.1079921 0.085 e e staggered 0 0 0  is_shrink=n is_pad=y
+17 0 0.7825945 3.5108228 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+18 0 1.389685 2.6439764 T 0.0492126 0.1181102 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+18 0.0314777 0.8956582 2.1299029 B e e  arsize_top=0.0374016 arsize_bot=0.0374016 is_shrink=n is_pierce=y
+@s gtl gbl
+18 0.0433071 4.9173228 0.7716535 B e e  arsize_top=0.0354331 arsize_bot=0.0354331 is_shrink=n is_pierce=y
+@s gtl gbl
+18 0.0314776 3.3610839 1.8108471 B e e  arsize_top=0.0374016 arsize_bot=0.0374016 is_shrink=n is_pierce=y is_slot=y
+@s gtl gbl
+18 0.0314952 1.6870087 1.5994052 B e e  arsize_top=0.0374016 arsize_bot=0.0374016 is_shrink=n is_pierce=y is_slot=y
+19 0 3.2953937 -0.388189 T 0.0629921 0.1574803 e e staggered 0 0 0  is_shrink=n is_pad=y
+19 0 3.2953937 -0.6795276 T 0.0629921 0.1574803 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+19 0.0059055 0.7047244 0.2360236 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+19 0.0216535 7.4693701 3.0116457 B e e  arsize_top=0.019685 arsize_bot=0.019685 is_shrink=n is_pierce=y
+@s gtl gbl
+19 0.019685 4.0729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+20 0 2.6538583 3.5116929 T 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+20 0 2.5729134 3.511811 T 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+20 0 2.7480315 3.4291339 T 0.0787402 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+20 0 2.5679094 3.3976417 T 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+20 0 2.6535394 3.3976417 T 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+21 0 3.9092913 3.5594094 T 0.0393701 0.0255906 e e staggered 0 0 0  is_shrink=n is_pad=y
+21 0 3.9866142 3.5525197 T 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+21 0 4.0720748 3.5525197 T 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+21 0 4.2429921 3.5525197 T 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+21 0 4.1575354 3.5525197 T 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+22 0.019685 3.4729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+22 0.023622 0.3169291 1.0511811 B e e  arsize_top=0.0177165 arsize_bot=0.0177165 is_shrink=n is_pierce=y
+@s gtl gbl
+22 0.023622 0.4547244 1.0531496 B e e  arsize_top=0.0177165 arsize_bot=0.0177165 is_shrink=n is_pierce=y
+@s gtl gbl
+22 0.023622 0.4547244 0.7283465 B e e  arsize_top=0.0177165 arsize_bot=0.0177165 is_shrink=n is_pierce=y
+@s gtl gbl
+22 0.023622 0.3169291 0.7283465 B e e  arsize_top=0.0177165 arsize_bot=0.0177165 is_shrink=n is_pierce=y
+@s gtl gbl
+23 0.023622 5.0683071 0.032874 B e e  arsize_top=0.023622 arsize_bot=0.023622 is_shrink=n is_pierce=y
+@s gtl gbl
+23 0.019685 3.3729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+23 0 4.956063 0.4876772 D 0.0787402 0.0787402 e e staggered 0 0 0  is_shrink=n is_pad=y
+23 0 4.958189 0.3320866 D 0.085 0.1079921 e e staggered 0 0 0  is_shrink=n is_pad=y
+23 0 4.9399961 0.1914213 D 0.0374016 0.0649606 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+24 0.023622 4.1282244 0.0614488 B e e  arsize_top=0.023622 arsize_bot=0.023622 is_shrink=n is_pierce=y
+@s gtl gbl
+24 0.019685 3.5729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+24 0 3.6825591 0.1640945 D 0.0787402 0.0787402 e e staggered 0 0 0  is_shrink=n is_pad=y
+24 0 3.8488189 0.174685 D 0.1079921 0.085 e e staggered 0 0 0  is_shrink=n is_pad=y
+24 0 3.9802795 0.1985472 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+25 0.019685 4.1729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+25 0.0059055 3.9215748 3.6484646 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+25 0.0059055 7.2811024 2.0867717 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+25 0 7.2809843 2.0487795 D 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+26 0 3.7975551 2.7900827 T 0.0314961 0.0255906 e e staggered 0 0 0  is_shrink=n is_pad=y
+26 0 3.8096063 2.7072441 T 0.0598425 0.0700787 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+26 0.0059055 3.9106693 3.1225984 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+26 0.019685 3.7729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+27 0.019685 4.1729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+27 0.0059055 3.9484646 3.6812598 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+27 0.0059055 7.3607047 2.0867717 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+27 0 7.3593307 2.0487795 D 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+28 0.019685 2.6729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+28 0.0059055 -0.0233071 2.4557087 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+28 0 -0.0235039 2.5004724 D 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+28 0 -0.1166181 2.5442087 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+29 0.019685 2.7729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+29 0.0059055 0.650315 0.4388976 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+29 0 2.9685039 0.2443701 D 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+29 0 2.8674055 0.2657126 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+30 0.019685 3.2729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+30 0.0059055 3.2855906 3.1775197 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+30 0 3.4905512 0.1381102 D 0.0393701 0.0393701 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+31 0.019685 3.1729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+31 0.0059055 0.5325984 3.7846063 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+31 0 0.8566535 3.2503937 D 0.0393701 0.0393701 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+32 0.019685 3.1729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+32 0.0059055 3.2472441 3.1920472 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+32 0 4.2385433 0.9156299 D 0.0393701 0.0393701 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+33 0.0374016 6.5087402 2.2931417 B e e  arsize_top=0.0570866 arsize_bot=0.0570866 is_shrink=n is_pierce=y
+@s gtl gbl
+33 0.0551181 6.4685787 1.5482598 B e e  arsize_top=0.0275591 arsize_bot=0.0275591 is_shrink=n is_pierce=y
+33 0.019685 6.5025945 2.4222441 D e e  arsize_top=0 arsize_bot=0 is_shrink=n is_pad=y
+34 0 4.4695276 2.6466142 T 0.0669291 0.2125984 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+34 0.019685 5.1498425 2.9046457 B e e  arsize_top=0.0098425 arsize_bot=0.0098425 is_shrink=n is_pierce=y
+@s gtl gbl
+34 0.0255906 4.6358268 2.3622047 B e e  arsize_top=0.015748 arsize_bot=0.015748 is_shrink=n is_pierce=y
+35 0 0.1123583 2.7176417 D 0.0374016 0.0649606 e e staggered 0 0 0  is_shrink=n is_pad=y
+35 0 -0.0235039 2.6274409 D 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+35 0 0.0531496 2.6266142 D 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+36 0.0433071 5.5497244 -0.5610236 B e e  arsize_top=0.0354331 arsize_bot=0.0354331 is_shrink=n is_pierce=y
+@s gtl gbl
+36 0.0373956 3.655388 -0.1267462 B e e  arsize_top=0.0393662 arsize_bot=0.0393662 is_shrink=n is_pierce=y
+36 0 4.0739764 -0.2692126 D 0.0492126 0.1181102 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+37 0.0374016 6.2587402 2.6671575 B e e  arsize_top=0.0570866 arsize_bot=0.0570866 is_shrink=n is_pierce=y
+@s gtl gbl
+37 0.0551181 6.2260591 1.3057402 B e e  arsize_top=0.0275591 arsize_bot=0.0275591 is_shrink=n is_pierce=y
+37 0.019685 6.2556693 2.8005827 D e e  arsize_top=0 arsize_bot=0 is_shrink=n is_pad=y
+@s gtl gbl
+38 0.0059055 4.2729134 3.751811 B e e  arsize_top=0.0062992 arsize_bot=0.0062992 is_shrink=n is_pierce=y
+@s gtl gbl
+38 0.019685 3.8729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+38 0.0216535 7.6662205 3.0116457 B e e  arsize_top=0.019685 arsize_bot=0.019685 is_shrink=n is_pierce=y
+39 0 0.1123583 2.4698465 D 0.0374016 0.0649606 e e staggered 0 0 0  is_shrink=n is_pad=y
+39 0 -0.0235039 2.5634646 D 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+39 0 0.0531496 2.563622 D 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+40 0.015748 7.3607047 1.8183386 B e e  arsize_top=0.0137795 arsize_bot=0.0137795 is_shrink=n is_pierce=y
+40 0.019685 7.4355079 1.9859843 D e e  arsize_top=0 arsize_bot=0 is_shrink=n is_pad=y
+40 0 7.3593307 1.9857874 D 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+41 0.0373957 5.2564902 -0.4399646 B e e  arsize_top=0.0393701 arsize_bot=0.0393701 is_shrink=n is_pierce=y is_slot=y
+@s gtl gbl
+41 0.0590551 6.790626 0.8490472 B e e  arsize_top=0.0393701 arsize_bot=0.0393701 is_shrink=n is_pierce=y
+41 0 4.9687008 -0.3680315 D 0.0492126 0.1181102 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+42 0.019685 2.5729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+42 0 1.9322047 3.7480315 D 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+42 0 1.9212598 3.8425197 D 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+43 0 3.3258268 2.4772047 T 0.0413386 0.1003937 e e staggered 0 0 0  is_shrink=n is_pad=y
+43 0 2.9183465 2.6735433 T 0.0629921 0.1377953 e e staggered 0 0 0  is_shrink=n is_pad=y
+43 0 3.0594094 2.6742913 T 0.0629921 0.1377953 e e staggered 0 0 0  is_shrink=n is_pad=y
+44 0 3.0303543 0.174685 D 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+44 0 3.135626 0.1814606 D 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+44 0 3.1356339 0.1090984 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+45 0.0374016 6.0087402 2.2931417 B e e  arsize_top=0.0570866 arsize_bot=0.0570866 is_shrink=n is_pierce=y
+@s gtl gbl
+45 0.0551181 6.2260591 1.5482598 B e e  arsize_top=0.0275591 arsize_bot=0.0275591 is_shrink=n is_pierce=y
+45 0.019685 6.0063386 2.436063 D e e  arsize_top=0 arsize_bot=0 is_shrink=n is_pad=y
+@s gtl gbl
+46 0.023622 0.0416142 0.507874 B e e  arsize_top=0.0177165 arsize_bot=0.0177165 is_shrink=n is_pierce=y
+@s gtl gbl
+46 0.023622 0.0416142 0.1850394 B e e  arsize_top=0.0177165 arsize_bot=0.0177165 is_shrink=n is_pierce=y
+46 0 0.6496063 0.0866142 D 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+47 0.0374016 6.7587402 2.6671575 B e e  arsize_top=0.0570866 arsize_bot=0.0570866 is_shrink=n is_pierce=y
+@s gtl gbl
+47 0.0551181 6.4685787 1.3057402 B e e  arsize_top=0.0275591 arsize_bot=0.0275591 is_shrink=n is_pierce=y
+47 0.019685 6.758622 2.8147953 D e e  arsize_top=0 arsize_bot=0 is_shrink=n is_pad=y
+@s gtl gbl
+48 0.019685 3.3729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+48 0.023622 0.3172047 0.507874 B e e  arsize_top=0.0177165 arsize_bot=0.0177165 is_shrink=n is_pierce=y
+@s gtl gbl
+48 0.023622 0.3172047 0.1850394 B e e  arsize_top=0.0177165 arsize_bot=0.0177165 is_shrink=n is_pierce=y
+49 0 4.4672441 3.0004724 T 0.0669291 0.2125984 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+49 0.019685 4.8348819 2.9046457 B e e  arsize_top=0.0098425 arsize_bot=0.0098425 is_shrink=n is_pierce=y
+@s gtl gbl
+49 0.0255906 4.6358268 3.5433071 B e e  arsize_top=0.019685 arsize_bot=0.019685 is_shrink=n is_pierce=y
+@s gtl gbl
+50 0.019685 3.2729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+50 0.023622 0.455 0.5098425 B e e  arsize_top=0.0177165 arsize_bot=0.0177165 is_shrink=n is_pierce=y
+@s gtl gbl
+50 0.023622 0.455 0.1850394 B e e  arsize_top=0.0177165 arsize_bot=0.0177165 is_shrink=n is_pierce=y
+51 0 1.7341732 2.8276772 T 0.0492126 0.1181102 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+51 0.0413152 1.2501734 3.1068817 B e e  arsize_top=0.0393701 arsize_bot=0.0393701 is_shrink=n is_pierce=y is_slot=y
+@s gtl gbl
+51 0.0433071 4.9173228 1.6811024 B e e  arsize_top=0.0354331 arsize_bot=0.0354331 is_shrink=n is_pierce=y
+52 0 3.0314961 0.2443701 D 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+52 0 3.135626 0.2444528 D 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+52 0 3.135626 0.3180276 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+53 0 3.4344094 2.6072441 T 0.0598425 0.0700787 e e staggered 0 0 0  is_shrink=n is_pad=y
+53 0 3.4340945 2.4772047 T 0.0413386 0.1003937 e e staggered 0 0 0  is_shrink=n is_pad=y
+53 0 3.519685 2.3387402 T 0.0275591 0.0787402 e e staggered 0 0 0  is_shrink=n is_pad=y
+54 0 1.6959843 3.6850394 D 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+54 0 1.7830709 3.617874 D 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+54 0 1.6959882 3.5323661 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+55 0.015748 7.4355079 1.7435354 B e e  arsize_top=0.0137795 arsize_bot=0.0137795 is_shrink=n is_pierce=y
+55 0 7.4909606 1.3653543 D 0.023622 0.1574803 e e staggered 0 0 0  is_shrink=n is_pad=y
+55 0 7.5492126 1.5613386 D 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+56 0 1.9322047 3.6850394 D 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+56 0 1.846063 3.617874 D 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+56 0 1.9322087 3.5323661 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+57 0.0216535 7.2725197 3.0116457 B e e  arsize_top=0.019685 arsize_bot=0.019685 is_shrink=n is_pierce=y
+@s gtl gbl
+57 0.019685 4.2729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+57 0 7.2705118 2.5962598 D 0.1079921 0.085 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+58 0.019685 2.5729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+58 0 1.6959843 3.7480315 D 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+58 0 1.6929134 3.8425197 D 0.0354331 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+59 0 2.4372835 3.4524409 T 0.1079921 0.085 e e staggered 0 0 0  is_shrink=n is_pad=y
+59 0 2.5729134 3.5748031 T 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+59 0.0255906 2.2145669 3.5433071 B e e  arsize_top=0.019685 arsize_bot=0.019685 is_shrink=n is_pierce=y
+@s gtl gbl
+60 0.015748 7.2859016 1.7435354 B e e  arsize_top=0.0137795 arsize_bot=0.0137795 is_shrink=n is_pierce=y
+60 0 7.2809843 1.9857874 D 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+61 0 2.2395276 2.0023622 D 0.1377953 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+61 0 1.952126 2.2201181 D 0.1377953 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+62 0 0.3188937 2.7176417 D 0.0374016 0.0649606 e e staggered 0 0 0  is_shrink=n is_pad=y
+62 0 0.220626 2.7176417 D 0.0374016 0.0649606 e e staggered 0 0 0  is_shrink=n is_pad=y
+63 0 1.4320079 3.6905906 D 0.1181102 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+63 0 1.4320079 3.5718504 D 0.1377953 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+64 0 0.4271614 2.4698465 D 0.0374016 0.0649606 e e staggered 0 0 0  is_shrink=n is_pad=y
+64 0 0.5254291 2.4698465 D 0.0374016 0.0649606 e e staggered 0 0 0  is_shrink=n is_pad=y
+65 0 3.135626 0.4915315 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+65 0 3.135626 0.4262953 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+66 0 1.6959882 3.1663425 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+66 0 1.6959882 3.2410866 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+67 0 4.3350787 3.5525197 T 0.0492126 0.0354331 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+67 0.019685 4.2729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+68 0 0.3188937 2.4698465 D 0.0374016 0.0649606 e e staggered 0 0 0  is_shrink=n is_pad=y
+68 0 0.220626 2.4698465 D 0.0374016 0.0649606 e e staggered 0 0 0  is_shrink=n is_pad=y
+69 0 1.9479134 2.5952756 D 0.1377953 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+69 0 1.952126 2.4445276 D 0.1377953 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+70 0.0216535 7.7646457 2.8147953 B e e  arsize_top=0.019685 arsize_bot=0.019685 is_shrink=n is_pierce=y
+@s gtl gbl
+70 0.019685 3.9729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+71 0 1.6088189 2.8503543 D 0.1377953 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+71 0 1.4320079 3.3474409 D 0.1377953 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+72 0.0216535 7.3709449 2.8147953 B e e  arsize_top=0.019685 arsize_bot=0.019685 is_shrink=n is_pierce=y
+@s gtl gbl
+72 0.019685 3.8729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+73 0 1.9322087 3.3493543 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+73 0 1.9322087 3.4240984 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+74 0.023622 4.5511811 0.4055118 B e e  arsize_top=0.0177165 arsize_bot=0.0177165 is_shrink=n is_pierce=y
+@s gtl gbl
+74 0.019685 2.8729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+75 0 1.8106693 2.031378 D 0.0629921 0.1377953 e e staggered 0 0 0  is_shrink=n is_pad=y
+75 0 1.974252 2.0029528 D 0.1377953 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+76 0.023622 4.5511811 2.0472441 B e e  arsize_top=0.019685 arsize_bot=0.019685 is_shrink=n is_pierce=y
+@s gtl gbl
+76 0.019685 2.9729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+77 0 2.2395276 1.6690945 D 0.1181102 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+77 0 2.2395276 1.7779528 D 0.1377953 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+78 0.023622 4.5511811 1.3149606 B e e  arsize_top=0.019685 arsize_bot=0.019685 is_shrink=n is_pierce=y
+@s gtl gbl
+78 0.019685 2.9729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+@s gtl gbl
+79 0.015748 7.3607047 1.7435354 B e e  arsize_top=0.0137795 arsize_bot=0.0137795 is_shrink=n is_pierce=y
+79 0.019685 7.360748 1.6723228 D e e  arsize_top=0 arsize_bot=0 is_shrink=n is_pad=y
+@s gtl gbl
+80 0.023622 6.2780709 -0.5649606 B e e  arsize_top=0.019685 arsize_bot=0.019685 is_shrink=n is_pierce=y
+@s gtl gbl
+80 0.019685 3.0729134 3.9754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+81 0 1.6088189 2.6259449 D 0.1377953 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+81 0 1.4080709 2.6259449 D 0.1377953 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+82 0.023622 6.2780709 0.1673228 B e e  arsize_top=0.019685 arsize_bot=0.019685 is_shrink=n is_pierce=y
+@s gtl gbl
+82 0.019685 3.0729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+83 0 3.135626 0.6650354 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+83 0 3.135626 0.5997992 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+84 0.023622 4.5511811 1.1377953 B e e  arsize_top=0.019685 arsize_bot=0.019685 is_shrink=n is_pierce=y
+@s gtl gbl
+84 0.019685 2.8729134 4.0754252 B e e  arsize_top=0.0106299 arsize_bot=0.0106299 is_shrink=n is_pierce=y
+85 0 1.6959882 3.3493543 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+85 0 1.6959882 3.4240984 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+86 0.0433071 5.2795276 2.0433071 B e e  arsize_top=0.0354331 arsize_bot=0.0354331 is_shrink=n is_pierce=y
+@s gtl gbl
+86 0.0590551 5.8091299 0.9336929 B e e  arsize_top=0.0393701 arsize_bot=0.0393701 is_shrink=n is_pierce=y
+87 0 3.4344094 2.7072441 T 0.0598425 0.0700787 e e staggered 0 0 0  is_shrink=n is_pad=y
+87 0 3.2838189 2.6742913 T 0.0629921 0.1377953 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+88 0.0433071 5.9119291 -0.1988189 B e e  arsize_top=0.0354331 arsize_bot=0.0354331 is_shrink=n is_pierce=y
+@s gtl gbl
+88 0.0590551 6.790626 2.0049528 B e e  arsize_top=0.0393701 arsize_bot=0.0393701 is_shrink=n is_pierce=y
+89 0 2.693937 2.6735433 T 0.0629921 0.1377953 e e staggered 0 0 0  is_shrink=n is_pad=y
+89 0 2.5512598 2.6766535 T 0.0629921 0.1377953 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+90 0.0433071 5.2795276 1.1338583 B e e  arsize_top=0.0354331 arsize_bot=0.0354331 is_shrink=n is_pierce=y
+@s gtl gbl
+90 0.0590551 5.8091299 1.9203071 B e e  arsize_top=0.0393701 arsize_bot=0.0393701 is_shrink=n is_pierce=y
+91 0 1.473937 2.0356693 D 0.0629921 0.1377953 e e staggered 0 0 0  is_shrink=n is_pad=y
+91 0 1.5862598 2.031378 D 0.0629921 0.1377953 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+92 0.0314776 3.3610839 1.0628156 B e e  arsize_top=0.0374016 arsize_bot=0.0374016 is_shrink=n is_pierce=y is_slot=y
+@s gtl gbl
+92 0.0314776 2.928013 1.8108471 B e e  arsize_top=0.0374016 arsize_bot=0.0374016 is_shrink=n is_pierce=y is_slot=y
+93 0 0.9553543 2.7866535 D 0.0629921 0.1377953 e e staggered 0 0 0  is_shrink=n is_pad=y
+93 0 0.9617717 2.6103543 D 0.1377953 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+94 0.0314776 1.6869894 2.3474298 B e e  arsize_top=0.0374016 arsize_bot=0.0374016 is_shrink=n is_pierce=y is_slot=y
+@s gtl gbl
+94 0.0314776 1.2539185 2.3474298 B e e  arsize_top=0.0374016 arsize_bot=0.0374016 is_shrink=n is_pierce=y is_slot=y
+95 0 0.4605512 1.7047638 D 0.1181102 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+95 0 0.5139764 1.9240945 D 0.1377953 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+96 0.0314777 0.1476267 2.1299029 B e e  arsize_top=0.0374016 arsize_bot=0.0374016 is_shrink=n is_pierce=y
+@s gtl gbl
+96 0.0314777 0.1476267 1.696832 B e e  arsize_top=0.0374016 arsize_bot=0.0374016 is_shrink=n is_pierce=y
+97 0 0.5139764 2.1485039 D 0.1377953 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+97 0 0.9617717 2.3859449 D 0.1377953 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+98 0 1.9322087 3.2410866 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+98 0 1.9322087 3.1663425 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+99 0 0.5254291 2.7176417 D 0.0374016 0.0649606 e e staggered 0 0 0  is_shrink=n is_pad=y
+99 0 0.4271614 2.7176417 D 0.0374016 0.0649606 e e staggered 0 0 0  is_shrink=n is_pad=y
+100 0 3.1356339 -0.2216102 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+100 0 3.1356339 -0.1645236 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+101 0 3.1356339 0.0008307 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+101 0 3.1356339 -0.0562559 D 0.0649606 0.0374016 e e staggered 0 0 0  is_shrink=n is_pad=y
+102 0 1.974252 1.6714961 D 0.1181102 0.0492126 e e staggered 0 0 0  is_shrink=n is_pad=y
+102 0 1.974252 1.7785433 D 0.1377953 0.0629921 e e staggered 0 0 0  is_shrink=n is_pad=y
+@s gtl gbl
+103 0.015748 7.2859016 1.8183386 B e e  arsize_top=0.0137795 arsize_bot=0.0137795 is_shrink=n is_pierce=y
+103 0.019685 7.2859016 1.8937008 D e e  arsize_top=0 arsize_bot=0 is_shrink=n is_pad=y
+@s gtl gbl
+104 0.015748 7.510311 1.8183386 B e e  arsize_top=0.0137795 arsize_bot=0.0137795 is_shrink=n is_pierce=y
+104 0.019685 7.510311 1.8937008 D e e  arsize_top=0 arsize_bot=0 is_shrink=n is_pad=y
+105 0.019685 -0.1181102 0.984252 D e e  arsize_top=0 arsize_bot=0 is_shrink=n is_pad=y
+106 0.019685 7.5590551 1.023622 D e e  arsize_top=0 arsize_bot=0 is_shrink=n is_pad=y
+@s gtl gbl
+107 0.015748 7.510311 1.7435354 B e e  arsize_top=0.0137795 arsize_bot=0.0137795 is_shrink=n is_pierce=y
+108 0.019685 0.2362205 3.6614173 T e e  arsize_top=0 arsize_bot=0 is_shrink=n is_pad=y
+109 0.019685 7.5590551 0.1181102 T e e  arsize_top=0 arsize_bot=0 is_shrink=n is_pad=y
+110 0.019685 0.6692913 0.0787402 T e e  arsize_top=0 arsize_bot=0 is_shrink=n is_pad=y
+111 0.019685 0.6299213 3.8976378 D e e  arsize_top=0 arsize_bot=0 is_shrink=n is_pad=y

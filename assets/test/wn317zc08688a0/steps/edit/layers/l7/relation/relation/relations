@@ -1,0 +1,249 @@
+
+"relations" {
+    "version"=1
+    "rel_type"=CON
+
+    "connection" {
+
+        "feature-1" {
+            "type"=FEAT
+
+            "feature" {
+                "index"=425
+                "mode"=PS
+            }
+        }
+
+        "feature-2" {
+            "type"=FEAT
+
+            "feature" {
+                "index"=424
+                "mode"=PE
+            }
+        }
+
+        "feature-c" {
+            "type"=FEAT
+
+            "feature" {
+                "index"=866
+                "mode"=ALL
+            }
+        }
+        "mode"=ROUND
+        "size1"=0.03937007874015748
+        "size2"=0
+        "type_x"=DIST
+        "type_y"=DIST
+        "point_rel_2_f1"=ALL
+        "func"=LINE2ARC
+        "intersect"=0
+        "radius"=400000
+    }
+
+    "graphic" {
+
+        "grp-params" {
+            "ang_arrmode"=EDGE
+            "dim_arrmode"=EDGE
+            "ang_boxmode"=SQR
+            "dim_boxmode"=SQR
+            "inline_mode"=ALL
+            "outline_mode"=ALL
+            "font_spec"=
+            "text_sufx"=
+        }
+        "dim_x"=0
+        "dim_y"=0
+        "ang_x"=0
+        "ang_y"=0
+    }
+}
+
+"relations" {
+    "version"=1
+    "rel_type"=CON
+
+    "connection" {
+
+        "feature-1" {
+            "type"=FEAT
+
+            "feature" {
+                "index"=424
+                "mode"=PS
+            }
+        }
+
+        "feature-2" {
+            "type"=FEAT
+
+            "feature" {
+                "index"=423
+                "mode"=PE
+            }
+        }
+
+        "feature-c" {
+            "type"=FEAT
+
+            "feature" {
+                "index"=867
+                "mode"=ALL
+            }
+        }
+        "mode"=ROUND
+        "size1"=0.03937007874015748
+        "size2"=0
+        "type_x"=DIST
+        "type_y"=DIST
+        "point_rel_2_f1"=ALL
+        "func"=LINE2ARC
+        "intersect"=0
+        "radius"=400000
+    }
+
+    "graphic" {
+
+        "grp-params" {
+            "ang_arrmode"=EDGE
+            "dim_arrmode"=EDGE
+            "ang_boxmode"=SQR
+            "dim_boxmode"=SQR
+            "inline_mode"=ALL
+            "outline_mode"=ALL
+            "font_spec"=
+            "text_sufx"=
+        }
+        "dim_x"=0
+        "dim_y"=0
+        "ang_x"=0
+        "ang_y"=0
+    }
+}
+
+"relations" {
+    "version"=1
+    "rel_type"=CON
+
+    "connection" {
+
+        "feature-1" {
+            "type"=FEAT
+
+            "feature" {
+                "index"=386
+                "mode"=PS
+            }
+        }
+
+        "feature-2" {
+            "type"=FEAT
+
+            "feature" {
+                "index"=385
+                "mode"=PE
+            }
+        }
+
+        "feature-c" {
+            "type"=FEAT
+
+            "feature" {
+                "index"=868
+                "mode"=ALL
+            }
+        }
+        "mode"=ROUND
+        "size1"=0.03937007874015748
+        "size2"=0
+        "type_x"=DIST
+        "type_y"=DIST
+        "point_rel_2_f1"=ALL
+        "func"=LINE2ARC
+        "intersect"=0
+        "radius"=400000
+    }
+
+    "graphic" {
+
+        "grp-params" {
+            "ang_arrmode"=EDGE
+            "dim_arrmode"=EDGE
+            "ang_boxmode"=SQR
+            "dim_boxmode"=SQR
+            "inline_mode"=ALL
+            "outline_mode"=ALL
+            "font_spec"=
+            "text_sufx"=
+        }
+        "dim_x"=0
+        "dim_y"=0
+        "ang_x"=0
+        "ang_y"=0
+    }
+}
+
+"relations" {
+    "version"=1
+    "rel_type"=CON
+
+    "connection" {
+
+        "feature-1" {
+            "type"=FEAT
+
+            "feature" {
+                "index"=384
+                "mode"=PE
+            }
+        }
+
+        "feature-2" {
+            "type"=FEAT
+
+            "feature" {
+                "index"=385
+                "mode"=PS
+            }
+        }
+
+        "feature-c" {
+            "type"=FEAT
+
+            "feature" {
+                "index"=869
+                "mode"=ALL
+            }
+        }
+        "mode"=ROUND
+        "size1"=0.03937007874015748
+        "size2"=0
+        "type_x"=DIST
+        "type_y"=DIST
+        "point_rel_2_f1"=ALL
+        "func"=LINE2ARC
+        "intersect"=0
+        "radius"=400000
+    }
+
+    "graphic" {
+
+        "grp-params" {
+            "ang_arrmode"=EDGE
+            "dim_arrmode"=EDGE
+            "ang_boxmode"=SQR
+            "dim_boxmode"=SQR
+            "inline_mode"=ALL
+            "outline_mode"=ALL
+            "font_spec"=
+            "text_sufx"=
+        }
+        "dim_x"=0
+        "dim_y"=0
+        "ang_x"=0
+        "ang_y"=0
+    }
+}
+

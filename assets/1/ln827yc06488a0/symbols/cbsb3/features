@@ -1,0 +1,10 @@
+#
+#Feature symbol names
+#
+$0 donut_r160x140
+
+#
+#Layer features
+#
+P 0 0 0 P 0 1
+T -0.04209961 -0.0346689 simple P 7 0.08 0.08 0.83333 '3' 1

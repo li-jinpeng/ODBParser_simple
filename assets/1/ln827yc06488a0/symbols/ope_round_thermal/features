@@ -1,0 +1,12 @@
+#
+#Feature symbol names
+#
+$0 s280
+$1 ths250.787x200.787x45x4x50
+
+#
+#Layer features
+#
+P 0 0 1 N 0 0
+P 0 0 0 P 0 0
+P 0 0 1 N 0 0

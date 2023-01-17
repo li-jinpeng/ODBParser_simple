@@ -1,0 +1,2689 @@
+Date : 25 Jun 2021
+Time : 11:19
+
+
+----------------------------------------------------------------------
+(*)  1. Path : (File) C:/Users/ADMINI~1/Desktop/00/452905-1.0DrillDrawing.gdo
+----------------------------------------------------------------------
+        File size         : 3146961 Bytes
+        Format            : Gerber274x
+        Step  name        : 111
+        Layer name        : 452905-1.0drilldrawing.gdo
+
+        Start translation : 11:19:10
+        End   translation : 11:19:12
+
+        Data type         : ascii
+        Units             : inch
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 2.6
+        Separator char    : *
+
+        Warning! Break polygon by D02 code. See configuration parameter iol_gbr_polygon_break 
+        Warning! One edge polygon(s) changed into r0 lines
+        
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r4.72 mil (r119.89 my), Count = 11514
+         2.D011, Symbol = r5 mil (r127 my), Count = 71189
+         3.D012, Symbol = r5.91 mil (r150.12 my), Count = 9225
+         4.D013, Symbol = r4.72 mil (r119.89 my), Count = 265
+         5.D014, Symbol = r0.5 mil (r12.7 my), Count = 216
+         6.D015, Symbol = r2.5 mil (r63.5 my), Count = 16
+         7.D016, Symbol = r8 mil (r203.2 my), Count = 8
+         8.D017, Symbol = r7.87 mil (r199.9 my), Count = 3433
+         9.D018, Symbol = r3.75 mil (r95.25 my), Count = 8
+        10.D019, Symbol = r2 mil (r50.8 my), Count = 328
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_ignore_small_polys - yes
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - no
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - yes
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+        Warning! One edge polygon(s) changed into r0 lines
+File = C:/Users/ADMINI~1/Desktop/00/452905-1.0DrillDrawing.gdo
+Line = 71177; Position = 1080953
+Last record = 02*
+
+        Warning! One edge polygon(s) changed into r0 lines
+File = C:/Users/ADMINI~1/Desktop/00/452905-1.0DrillDrawing.gdo
+Line = 71181; Position = 1081001
+Last record = 5317703Y-2381715D02*
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  2. Path : (File) C:/Users/ADMINI~1/Desktop/00/452905-1.0L1.gdo
+----------------------------------------------------------------------
+        File size         : 1004002 Bytes
+        Format            : Gerber274x
+        Step  name        : 111
+        Layer name        : 452905-1.0l1.gdo
+
+        Start translation : 11:19:12
+        End   translation : 11:19:14
+
+        Data type         : ascii
+        Units             : inch
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 2.6
+        Separator char    : *
+
+        Warning! Some Self-Intersecting polygons found & Corrected !!! 
+
+
+        Warning! Break polygon by D02 code. See configuration parameter iol_gbr_polygon_break 
+        Macro  converted to standard symbol. See configuration parameter iol_274x_convert_macro 
+        
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r4.72 mil (r119.89 my), Count = 32
+         2.D011, Symbol = r19.69 mil (r500.13 my), Count = 2118
+         3.D012, Symbol = r14.96 mil (r379.99 my), Count = 247
+         4.D013, Symbol = r11.81 mil (r299.98 my), Count = 884
+         5.D014, Symbol = r29.53 mil (r750.06 my), Count = 4
+         6.D015, Symbol = r27.56 mil (r700.03 my), Count = 2
+         7.D016, Symbol = r20 mil (r508 my), Count = 54
+         8.D017, Symbol = r9.84 mil (r249.94 my), Count = 2090
+         9.D018, Symbol = r23.62 mil (r599.95 my), Count = 620
+        10.D019, Symbol = r31.5 mil (r800.1 my), Count = 11
+        11.D020, Symbol = r4.7 mil (r119.38 my), Count = 112
+        12.D021, Symbol = r7.87 mil (r199.9 my), Count = 299
+        13.D022, Symbol = r5.5 mil (r139.7 my), Count = 3351
+        14.D023, Symbol = r6.5 mil (r165.1 my), Count = 97
+        15.D024, Symbol = r5.2 mil (r132.08 my), Count = 692
+        16.D025, Symbol = r5 mil (r127 my), Count = 151
+        17.D026, Symbol = r4.02 mil (r102.11 my), Count = 7
+        18.D027, Symbol = r6 mil (r152.4 my), Count = 170
+        19.D028, Symbol = r8 mil (r203.2 my), Count = 37
+        20.D029, Symbol = r4 mil (r101.6 my), Count = 29
+        21.D030, Symbol = r10 mil (r254 my), Count = 413
+        22.D031, Symbol = r6.5 mil (r165.1 my), Count = 17
+        23.D032, Symbol = r39.37 mil (r1000 my), Count = 41
+        24.D033, Symbol = r12 mil (r304.8 my), Count = 1
+        25.D034, Symbol = r7.09 mil (r180.09 my), Count = 8
+        26.D035, Symbol = r5.51 mil (r139.96 my), Count = 1
+        27.D036, Symbol = rect25.59x23.62 mil (rect649.99x599.95 my), Count = 774
+        28.D037, Symbol = rect23.62x25.59 mil (rect599.95x649.99 my), Count = 710
+        29.D038, Symbol = rect35.43x39.37 mil (rect899.92x1000 my), Count = 118
+        30.D039, Symbol = rect23.62x41.34 mil (rect599.95x1050.04 my), Count = 56
+        31.D040, Symbol = oval78.74x23.62 mil (oval2000x599.95 my), Count = 8
+        32.D041, Symbol = rect51.18x78.74 mil (rect1299.97x2000 my), Count = 2
+        33.D042, Symbol = rect41.34x23.62 mil (rect1050.04x599.95 my), Count = 37
+        34.D043, Symbol = r255.91 mil (r6500.12 my), Count = 7
+        35.D044, Symbol = r236.22 mil (r6000 my), Count = 4
+        36.D045, Symbol = oval53.15x23.62 mil (oval1350x599.95 my), Count = 65
+        37.D046, Symbol = oval59.06x15.75 mil (oval1500.13x400.05 my), Count = 30
+        38.D047, Symbol = rect39.37x35.43 mil (rect1000x899.92 my), Count = 124
+        39.D048, Symbol = rect21.65x45.28 mil (rect549.91x1150.11 my), Count = 36
+        40.D049, Symbol = rect45.28x55.12 mil (rect1150.11x1400.05 my), Count = 48
+        41.D050, Symbol = rect55.12x45.28 mil (rect1400.05x1150.11 my), Count = 44
+        42.D051, Symbol = rect61.02x78.74 mil (rect1549.91x2000 my), Count = 6
+        43.D052, Symbol = rect106.3x51.18 mil (rect2700.02x1299.97 my), Count = 20
+        44.D053, Symbol = r66.93 mil (r1700.02 my), Count = 13
+        45.D054, Symbol = s66.93 mil (s1700.02 my), Count = 4
+        46.D055, Symbol = s173.23 mil (s4400.04 my), Count = 1
+        47.D056, Symbol = oval7.87x33.46 mil (oval199.9x849.89 my), Count = 24
+        48.D057, Symbol = oval33.46x7.87 mil (oval849.89x199.9 my), Count = 24
+        49.D058, Symbol = s208.66 mil (s5299.97 my), Count = 1
+        50.D059, Symbol = oval7.87x35.43 mil (oval199.9x899.92 my), Count = 28
+        51.D060, Symbol = oval35.43x7.87 mil (oval899.92x199.9 my), Count = 28
+        52.D061, Symbol = rect88.58x92.52 mil (rect2249.93x2350 my), Count = 2
+        53.D062, Symbol = oval25.59x76.77 mil (oval649.99x1949.96 my), Count = 48
+        54.D063, Symbol = rect55.12x47.24 mil (rect1400.05x1199.9 my), Count = 2
+        55.D064, Symbol = rect15.75x39.37 mil (rect400.05x1000 my), Count = 40
+        56.D065, Symbol = i274x.vb_custom_rectangle2.24x1.725_1.d65 mil (i274x.vb_custom_rectangle2.24x1.725_1.d65 my), Count = 3
+        57.D066, Symbol = rect51.18x106.3 mil (rect1299.97x2700.02 my), Count = 10
+        58.D067, Symbol = s102.36 mil (s2599.95 my), Count = 2
+        59.D068, Symbol = oval10.63x31.5 mil (oval270x800.1 my), Count = 36
+        60.D069, Symbol = oval31.5x10.63 mil (oval800.1x270 my), Count = 36
+        61.D070, Symbol = r13.78 mil (r350 my), Count = 318
+        62.D071, Symbol = r15.75 mil (r400.05 my), Count = 1046
+        63.D072, Symbol = r5.91 mil (r150.12 my), Count = 8
+        64.D073, Symbol = r15 mil (r381 my), Count = 608
+        65.D074, Symbol = rect23.62x47.24 mil (rect599.95x1199.9 my), Count = 4
+        66.D075, Symbol = rect228.35x100.39 mil (rect5800.09x2549.91 my), Count = 4
+        67.D076, Symbol = i274x.vb_custom_round1.5_1.d76 mil (i274x.vb_custom_round1.5_1.d76 my), Count = 3
+        68.D077, Symbol = i274x.vb_custom_round1.5_1.d77 mil (i274x.vb_custom_round1.5_1.d77 my), Count = 3
+        69.D078, Symbol = rect51.18x62.99 mil (rect1299.97x1599.95 my), Count = 4
+        70.D079, Symbol = oval51.18x62.99 mil (oval1299.97x1599.95 my), Count = 21
+        71.D080, Symbol = rect137.8x90.55 mil (rect3500.12x2299.97 my), Count = 6
+        72.D081, Symbol = rect31.5x51.18 mil (rect800.1x1299.97 my), Count = 8
+        73.D082, Symbol = rect82.68x118.11 mil (rect2100.07x3000 my), Count = 4
+        74.D083, Symbol = oval23.62x53.15 mil (oval599.95x1350 my), Count = 26
+        75.D084, Symbol = rect51.18x131.89 mil (rect1299.97x3350 my), Count = 4
+        76.D085, Symbol = r51.18 mil (r1299.97 my), Count = 2
+        77.D086, Symbol = rect78.74x51.18 mil (rect2000x1299.97 my), Count = 2
+        78.D087, Symbol = rect62.99x137.8 mil (rect1599.95x3500.12 my), Count = 4
+        79.D088, Symbol = r47.24 mil (r1199.9 my), Count = 2
+        80.D089, Symbol = rect51.18x47.24 mil (rect1299.97x1199.9 my), Count = 12
+        81.D090, Symbol = rect167.32x82.68 mil (rect4249.93x2100.07 my), Count = 2
+        82.D091, Symbol = rect62.99x51.18 mil (rect1599.95x1299.97 my), Count = 7
+        83.D092, Symbol = oval62.99x51.18 mil (oval1599.95x1299.97 my), Count = 31
+        84.D093, Symbol = i274x.vb_custom_round1.5_1.d93 mil (i274x.vb_custom_round1.5_1.d93 my), Count = 2
+        85.D094, Symbol = i274x.vb_custom_round1.5_1.d94 mil (i274x.vb_custom_round1.5_1.d94 my), Count = 2
+        86.D095, Symbol = rect212.6x114.17 mil (rect5400.04x2899.92 my), Count = 2
+        87.D096, Symbol = s135.83 mil (s3450.08 my), Count = 1
+        88.D097, Symbol = oval10.63x33.46 mil (oval270x849.89 my), Count = 20
+        89.D098, Symbol = oval33.46x10.63 mil (oval849.89x270 my), Count = 36
+        90.D099, Symbol = rect86.61x135.83 mil (rect2199.9x3450.08 my), Count = 2
+        91.D100, Symbol = rect92.52x88.58 mil (rect2350x2249.93 my), Count = 2
+        92.D101, Symbol = rect145.67x137.8 mil (rect3700.02x3500.12 my), Count = 4
+        93.D102, Symbol = s106.3 mil (s2700.02 my), Count = 2
+        94.D103, Symbol = s124.02 mil (s3150.11 my), Count = 1
+        95.D104, Symbol = oval39.37x10.63 mil (oval1000x270 my), Count = 14
+        96.D105, Symbol = oval10.63x39.37 mil (oval270x1000 my), Count = 14
+        97.D106, Symbol = rect82.68x157.48 mil (rect2100.07x4000 my), Count = 4
+        98.D107, Symbol = rect88.58x62.99 mil (rect2249.93x1599.95 my), Count = 2
+        99.D108, Symbol = rect96.46x92.52 mil (rect2450.09x2350 my), Count = 2
+        100.D109, Symbol = rect47.24x51.18 mil (rect1199.9x1299.97 my), Count = 8
+        101.D110, Symbol = oval10.63x29.53 mil (oval270x750.06 my), Count = 12
+        102.D111, Symbol = rect104.33x39.37 mil (rect2649.98x1000 my), Count = 1
+        103.D112, Symbol = rect29.53x21.65 mil (rect750.06x549.91 my), Count = 4
+        104.D113, Symbol = rect72.83x86.61 mil (rect1849.88x2199.9 my), Count = 2
+        105.D114, Symbol = rect21.65x35.43 mil (rect549.91x899.92 my), Count = 2
+        106.D115, Symbol = rect10.63x35.43 mil (rect270x899.92 my), Count = 30
+        107.D116, Symbol = i274x.vb_custom_rectangle22.1x3.95_1.d116 mil (i274x.vb_custom_rectangle22.1x3.95_1.d116 my), Count = 1
+        108.D117, Symbol = r106.3 mil (r2700.02 my), Count = 2
+        109.D118, Symbol = rect41.34x19.69 mil (rect1050.04x500.13 my), Count = 8
+        110.D119, Symbol = rect82.68x167.32 mil (rect2100.07x4249.93 my), Count = 2
+        111.D120, Symbol = rect78.74x61.02 mil (rect2000x1549.91 my), Count = 2
+        112.D121, Symbol = rect88.58x70.87 mil (rect2249.93x1800.1 my), Count = 2
+        113.D122, Symbol = rect49.21x106.3 mil (rect1249.94x2700.02 my), Count = 4
+        114.D123, Symbol = i274x.vb_custom_rectangle4.05x2.05_1.d123 mil (i274x.vb_custom_rectangle4.05x2.05_1.d123 my), Count = 1
+        115.D124, Symbol = r25.59 mil (r649.99 my), Count = 2
+        116.D125, Symbol = rect10.63x59.06 mil (rect270x1500.13 my), Count = 20
+        117.D126, Symbol = rect62.99x70.87 mil (rect1599.95x1800.1 my), Count = 2
+        118.D127, Symbol = r35.43 mil (r899.92 my), Count = 2
+        119.D128, Symbol = rect66.93x27.56 mil (rect1700.02x700.03 my), Count = 60
+        120.D129, Symbol = rect84.65x37.4 mil (rect2150.11x949.96 my), Count = 3
+        121.D130, Symbol = rect84.65x127.95 mil (rect2150.11x3249.93 my), Count = 1
+        122.D131, Symbol = i274x.vb_custom_rectangle2.24x1.725_1.d131 mil (i274x.vb_custom_rectangle2.24x1.725_1.d131 my), Count = 2
+        123.D132, Symbol = rect23.62x51.18 mil (rect599.95x1299.97 my), Count = 8
+        124.D133, Symbol = i274x.vb_custom_rectangle3.9x3.8_1.d133 mil (i274x.vb_custom_rectangle3.9x3.8_1.d133 my), Count = 1
+        125.D134, Symbol = oval10.63x59.06 mil (oval270x1500.13 my), Count = 32
+        126.D135, Symbol = oval59.06x10.63 mil (oval1500.13x270 my), Count = 32
+        127.D136, Symbol = rect98.43x106.3 mil (rect2500.12x2700.02 my), Count = 2
+        128.D137, Symbol = rect10.63x49.21 mil (rect270x1249.94 my), Count = 50
+        129.D138, Symbol = rect23.62x61.02 mil (rect599.95x1549.91 my), Count = 10
+        130.D139, Symbol = rect47.24x70.87 mil (rect1199.9x1800.1 my), Count = 2
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_ignore_small_polys - yes
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - no
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - yes
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+         SIP fixed . Made change of no more than 0.25 mil.
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  3. Path : (File) C:/Users/ADMINI~1/Desktop/00/452905-1.0L2.gdo
+----------------------------------------------------------------------
+        File size         : 349419 Bytes
+        Format            : Gerber274x
+        Step  name        : 111
+        Layer name        : 452905-1.0l2.gdo
+
+        Start translation : 11:19:14
+        End   translation : 11:19:15
+
+        Data type         : ascii
+        Units             : inch
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 2.6
+        Separator char    : *
+
+        Warning! Some Self-Intersecting polygons found & Corrected !!! 
+
+
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r4.72 mil (r119.89 my), Count = 32
+         2.D011, Symbol = r11.81 mil (r299.98 my), Count = 38
+         3.D012, Symbol = r19.69 mil (r500.13 my), Count = 1875
+         4.D013, Symbol = r13.78 mil (r350 my), Count = 309
+         5.D014, Symbol = r15.75 mil (r400.05 my), Count = 692
+         6.D015, Symbol = r23.62 mil (r599.95 my), Count = 562
+         7.D016, Symbol = r192.91 mil (r4899.92 my), Count = 7
+         8.D017, Symbol = r177.17 mil (r4500.12 my), Count = 4
+         9.D018, Symbol = r66.93 mil (r1700.02 my), Count = 17
+        10.D019, Symbol = r39.37 mil (r1000 my), Count = 5
+        11.D020, Symbol = r47.24 mil (r1199.9 my), Count = 2
+        12.D021, Symbol = oval62.99x51.18 mil (oval1599.95x1299.97 my), Count = 38
+        13.D022, Symbol = r106.3 mil (r2700.02 my), Count = 3
+        14.D023, Symbol = r25.59 mil (r649.99 my), Count = 2
+        15.D024, Symbol = r35.43 mil (r899.92 my), Count = 2
+        16.D070, Symbol = oval51.18x62.99 mil (oval1299.97x1599.95 my), Count = 25
+        17.D071, Symbol = r51.18 mil (r1299.97 my), Count = 2
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_ignore_small_polys - yes
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - no
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - yes
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+         SIP fixed . Made change of no more than 0.25 mil.
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  4. Path : (File) C:/Users/ADMINI~1/Desktop/00/452905-1.0L3.gdo
+----------------------------------------------------------------------
+        File size         : 542711 Bytes
+        Format            : Gerber274x
+        Step  name        : 111
+        Layer name        : 452905-1.0l3.gdo
+
+        Start translation : 11:19:15
+        End   translation : 11:19:16
+
+        Data type         : ascii
+        Units             : inch
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 2.6
+        Separator char    : *
+
+        Warning! Break polygon by D02 code. See configuration parameter iol_gbr_polygon_break 
+        
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r4.72 mil (r119.89 my), Count = 32
+         2.D011, Symbol = r11.81 mil (r299.98 my), Count = 45
+         3.D012, Symbol = r7.87 mil (r199.9 my), Count = 21
+         4.D013, Symbol = r4 mil (r101.6 my), Count = 6127
+         5.D014, Symbol = r4.5 mil (r114.3 my), Count = 149
+         6.D015, Symbol = r13.78 mil (r350 my), Count = 314
+         7.D016, Symbol = r8 mil (r203.2 my), Count = 6
+         8.D017, Symbol = r15 mil (r381 my), Count = 8
+         9.D018, Symbol = r15.75 mil (r400.05 my), Count = 697
+        10.D019, Symbol = r19.69 mil (r500.13 my), Count = 1866
+        11.D020, Symbol = r39.37 mil (r1000 my), Count = 39
+        12.D021, Symbol = r10 mil (r254 my), Count = 5
+        13.D022, Symbol = r31.5 mil (r800.1 my), Count = 9
+        14.D023, Symbol = r23.62 mil (r599.95 my), Count = 562
+        15.D024, Symbol = r192.91 mil (r4899.92 my), Count = 7
+        16.D025, Symbol = r177.17 mil (r4500.12 my), Count = 4
+        17.D026, Symbol = r66.93 mil (r1700.02 my), Count = 17
+        18.D027, Symbol = oval51.18x62.99 mil (oval1299.97x1599.95 my), Count = 25
+        19.D028, Symbol = r51.18 mil (r1299.97 my), Count = 2
+        20.D029, Symbol = r47.24 mil (r1199.9 my), Count = 2
+        21.D030, Symbol = r25.59 mil (r649.99 my), Count = 2
+        22.D031, Symbol = r35.43 mil (r899.92 my), Count = 2
+        23.D070, Symbol = r14.96 mil (r379.99 my), Count = 7
+        24.D071, Symbol = r9.84 mil (r249.94 my), Count = 16
+        25.D072, Symbol = oval62.99x51.18 mil (oval1599.95x1299.97 my), Count = 38
+        26.D073, Symbol = r106.3 mil (r2700.02 my), Count = 3
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_ignore_small_polys - yes
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - no
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - yes
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  5. Path : (File) C:/Users/ADMINI~1/Desktop/00/452905-1.0L4.gdo
+----------------------------------------------------------------------
+        File size         : 546166 Bytes
+        Format            : Gerber274x
+        Step  name        : 111
+        Layer name        : 452905-1.0l4.gdo
+
+        Start translation : 11:19:16
+        End   translation : 11:19:17
+
+        Data type         : ascii
+        Units             : inch
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 2.6
+        Separator char    : *
+
+        Warning! Some Self-Intersecting polygons found & Corrected !!! 
+
+
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r4.72 mil (r119.89 my), Count = 32
+         2.D011, Symbol = r11.81 mil (r299.98 my), Count = 28
+         3.D012, Symbol = r9.84 mil (r249.94 my), Count = 16
+         4.D013, Symbol = r4 mil (r101.6 my), Count = 4301
+         5.D014, Symbol = r3.94 mil (r100.08 my), Count = 7
+         6.D015, Symbol = r7.87 mil (r199.9 my), Count = 12
+         7.D016, Symbol = r15 mil (r381 my), Count = 12
+         8.D017, Symbol = r8 mil (r203.2 my), Count = 3
+         9.D018, Symbol = r13.78 mil (r350 my), Count = 314
+        10.D019, Symbol = r23.62 mil (r599.95 my), Count = 564
+        11.D020, Symbol = r14.96 mil (r379.99 my), Count = 5
+        12.D021, Symbol = r40 mil (r1016 my), Count = 7
+        13.D022, Symbol = r39.37 mil (r1000 my), Count = 7
+        14.D023, Symbol = r31.5 mil (r800.1 my), Count = 15
+        15.D024, Symbol = r192.91 mil (r4899.92 my), Count = 7
+        16.D025, Symbol = r177.17 mil (r4500.12 my), Count = 4
+        17.D026, Symbol = r66.93 mil (r1700.02 my), Count = 17
+        18.D027, Symbol = oval51.18x62.99 mil (oval1299.97x1599.95 my), Count = 25
+        19.D028, Symbol = r51.18 mil (r1299.97 my), Count = 2
+        20.D029, Symbol = r47.24 mil (r1199.9 my), Count = 2
+        21.D030, Symbol = r25.59 mil (r649.99 my), Count = 2
+        22.D031, Symbol = r35.43 mil (r899.92 my), Count = 2
+        23.D070, Symbol = r19.69 mil (r500.13 my), Count = 1866
+        24.D071, Symbol = r15.75 mil (r400.05 my), Count = 695
+        25.D072, Symbol = oval62.99x51.18 mil (oval1599.95x1299.97 my), Count = 38
+        26.D073, Symbol = r106.3 mil (r2700.02 my), Count = 3
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_ignore_small_polys - yes
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - no
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - yes
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+         SIP fixed . Made change of no more than 0.25 mil.
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  6. Path : (File) C:/Users/ADMINI~1/Desktop/00/452905-1.0L5.gdo
+----------------------------------------------------------------------
+        File size         : 409099 Bytes
+        Format            : Gerber274x
+        Step  name        : 111
+        Layer name        : 452905-1.0l5.gdo
+
+        Start translation : 11:19:17
+        End   translation : 11:19:18
+
+        Data type         : ascii
+        Units             : inch
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 2.6
+        Separator char    : *
+
+        Warning! Some Self-Intersecting polygons found & Corrected !!! 
+
+
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r4.72 mil (r119.89 my), Count = 32
+         2.D011, Symbol = r11.81 mil (r299.98 my), Count = 41
+         3.D012, Symbol = r19.69 mil (r500.13 my), Count = 1882
+         4.D013, Symbol = r23.62 mil (r599.95 my), Count = 563
+         5.D014, Symbol = r8 mil (r203.2 my), Count = 1
+         6.D015, Symbol = r13.78 mil (r350 my), Count = 309
+         7.D016, Symbol = r15.75 mil (r400.05 my), Count = 692
+         8.D017, Symbol = r192.91 mil (r4899.92 my), Count = 7
+         9.D018, Symbol = r177.17 mil (r4500.12 my), Count = 4
+        10.D019, Symbol = r66.93 mil (r1700.02 my), Count = 17
+        11.D020, Symbol = r51.18 mil (r1299.97 my), Count = 2
+        12.D021, Symbol = r47.24 mil (r1199.9 my), Count = 2
+        13.D022, Symbol = oval62.99x51.18 mil (oval1599.95x1299.97 my), Count = 38
+        14.D023, Symbol = r106.3 mil (r2700.02 my), Count = 3
+        15.D024, Symbol = r25.59 mil (r649.99 my), Count = 2
+        16.D025, Symbol = r35.43 mil (r899.92 my), Count = 2
+        17.D070, Symbol = r39.37 mil (r1000 my), Count = 5
+        18.D071, Symbol = oval51.18x62.99 mil (oval1299.97x1599.95 my), Count = 25
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_ignore_small_polys - yes
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - no
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - yes
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+         SIP fixed . Made change of no more than 0.25 mil.
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  7. Path : (File) C:/Users/ADMINI~1/Desktop/00/452905-1.0L6.gdo
+----------------------------------------------------------------------
+        File size         : 839990 Bytes
+        Format            : Gerber274x
+        Step  name        : 111
+        Layer name        : 452905-1.0l6.gdo
+
+        Start translation : 11:19:18
+        End   translation : 11:19:20
+
+        Data type         : ascii
+        Units             : inch
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 2.6
+        Separator char    : *
+
+        Warning! Some Self-Intersecting polygons found & Corrected !!! 
+
+
+        Warning! Break polygon by D02 code. See configuration parameter iol_gbr_polygon_break 
+        Macro  converted to standard symbol. See configuration parameter iol_274x_convert_macro 
+        
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r4.72 mil (r119.89 my), Count = 32
+         2.D011, Symbol = r20 mil (r508 my), Count = 36
+         3.D012, Symbol = r9.84 mil (r249.94 my), Count = 1310
+         4.D013, Symbol = r11.81 mil (r299.98 my), Count = 334
+         5.D014, Symbol = r19.69 mil (r500.13 my), Count = 2106
+         6.D015, Symbol = r14.96 mil (r379.99 my), Count = 148
+         7.D016, Symbol = r31.5 mil (r800.1 my), Count = 48
+         8.D017, Symbol = r23.62 mil (r599.95 my), Count = 640
+         9.D018, Symbol = r10 mil (r254 my), Count = 248
+        10.D019, Symbol = r39.37 mil (r1000 my), Count = 204
+        11.D020, Symbol = r4 mil (r101.6 my), Count = 47
+        12.D021, Symbol = r6.5 mil (r165.1 my), Count = 38
+        13.D022, Symbol = r5 mil (r127 my), Count = 54
+        14.D023, Symbol = r15 mil (r381 my), Count = 569
+        15.D024, Symbol = r4.5 mil (r114.3 my), Count = 41
+        16.D025, Symbol = r5.5 mil (r139.7 my), Count = 2357
+        17.D026, Symbol = r5.2 mil (r132.08 my), Count = 187
+        18.D027, Symbol = r8 mil (r203.2 my), Count = 165
+        19.D028, Symbol = r6 mil (r152.4 my), Count = 15
+        20.D029, Symbol = r15.75 mil (r400.05 my), Count = 727
+        21.D030, Symbol = rect25.59x23.62 mil (rect649.99x599.95 my), Count = 650
+        22.D031, Symbol = rect35.43x39.37 mil (rect899.92x1000 my), Count = 68
+        23.D032, Symbol = rect23.62x25.59 mil (rect599.95x649.99 my), Count = 582
+        24.D033, Symbol = rect106.3x51.18 mil (rect2700.02x1299.97 my), Count = 6
+        25.D034, Symbol = oval23.62x53.15 mil (oval599.95x1350 my), Count = 10
+        26.D035, Symbol = rect39.37x35.43 mil (rect1000x899.92 my), Count = 52
+        27.D036, Symbol = r255.91 mil (r6500.12 my), Count = 7
+        28.D037, Symbol = r236.22 mil (r6000 my), Count = 4
+        29.D038, Symbol = rect45.28x55.12 mil (rect1150.11x1400.05 my), Count = 20
+        30.D039, Symbol = r66.93 mil (r1700.02 my), Count = 13
+        31.D040, Symbol = s66.93 mil (s1700.02 my), Count = 4
+        32.D041, Symbol = s190.94 mil (s4849.88 my), Count = 1
+        33.D042, Symbol = oval35.43x10.63 mil (oval899.92x270 my), Count = 36
+        34.D043, Symbol = oval10.63x35.43 mil (oval270x899.92 my), Count = 36
+        35.D044, Symbol = rect41.34x23.62 mil (rect1050.04x599.95 my), Count = 24
+        36.D045, Symbol = rect23.62x41.34 mil (rect599.95x1050.04 my), Count = 18
+        37.D046, Symbol = rect39.37x15.75 mil (rect1000x400.05 my), Count = 8
+        38.D047, Symbol = i274x.vb_custom_rectangle2.24x1.725_1_mirrored.d47 mil (i274x.vb_custom_rectangle2.24x1.725_1_mirrored.d47 my), Count = 1
+        39.D048, Symbol = rect51.18x62.99 mil (rect1299.97x1599.95 my), Count = 4
+        40.D049, Symbol = oval51.18x62.99 mil (oval1299.97x1599.95 my), Count = 21
+        41.D050, Symbol = rect47.24x27.56 mil (rect1199.9x700.03 my), Count = 9
+        42.D051, Symbol = rect47.24x39.37 mil (rect1199.9x1000 my), Count = 2
+        43.D052, Symbol = rect31.5x39.37 mil (rect800.1x1000 my), Count = 1
+        44.D053, Symbol = rect110.24x39.37 mil (rect2800.1x1000 my), Count = 1
+        45.D054, Symbol = i274x.vb_custom_rectangle1.9x1.3_1_mirrored.d54 mil (i274x.vb_custom_rectangle1.9x1.3_1_mirrored.d54 my), Count = 1
+        46.D055, Symbol = r51.18 mil (r1299.97 my), Count = 2
+        47.D056, Symbol = oval47.24x15.75 mil (oval1199.9x400.05 my), Count = 8
+        48.D057, Symbol = oval78.74x23.62 mil (oval2000x599.95 my), Count = 30
+        49.D058, Symbol = rect51.18x106.3 mil (rect1299.97x2700.02 my), Count = 4
+        50.D059, Symbol = rect70.87x88.58 mil (rect1800.1x2249.93 my), Count = 2
+        51.D060, Symbol = r47.24 mil (r1199.9 my), Count = 2
+        52.D061, Symbol = rect165.35x94.49 mil (rect4199.89x2400.05 my), Count = 1
+        53.D062, Symbol = rect181.1x94.49 mil (rect4599.94x2400.05 my), Count = 1
+        54.D063, Symbol = rect55.12x45.28 mil (rect1400.05x1150.11 my), Count = 16
+        55.D064, Symbol = rect62.99x51.18 mil (rect1599.95x1299.97 my), Count = 7
+        56.D065, Symbol = oval62.99x51.18 mil (oval1599.95x1299.97 my), Count = 31
+        57.D066, Symbol = rect29.53x21.65 mil (rect750.06x549.91 my), Count = 6
+        58.D067, Symbol = oval10.63x33.46 mil (oval270x849.89 my), Count = 8
+        59.D068, Symbol = oval33.46x10.63 mil (oval849.89x270 my), Count = 40
+        60.D069, Symbol = i274x.vb_custom_rectangle4.05x2.05_1_mirrored.d69 mil (i274x.vb_custom_rectangle4.05x2.05_1_mirrored.d69 my), Count = 2
+        61.D070, Symbol = r7.87 mil (r199.9 my), Count = 109
+        62.D071, Symbol = r13.78 mil (r350 my), Count = 365
+        63.D072, Symbol = r3.94 mil (r100.08 my), Count = 8
+        64.D073, Symbol = r12 mil (r304.8 my), Count = 2
+        65.D074, Symbol = rect21.65x29.53 mil (rect549.91x750.06 my), Count = 4
+        66.D075, Symbol = oval15.75x66.93 mil (oval400.05x1700.02 my), Count = 20
+        67.D076, Symbol = oval53.15x23.62 mil (oval1350x599.95 my), Count = 15
+        68.D077, Symbol = r106.3 mil (r2700.02 my), Count = 2
+        69.D078, Symbol = s106.3 mil (s2700.02 my), Count = 1
+        70.D079, Symbol = oval23.62x78.74 mil (oval599.95x2000 my), Count = 22
+        71.D080, Symbol = r25.59 mil (r649.99 my), Count = 2
+        72.D081, Symbol = rect15.75x39.37 mil (rect400.05x1000 my), Count = 8
+        73.D082, Symbol = i274x.vb_custom_rectangle2.24x1.725_1_mirrored.d82 mil (i274x.vb_custom_rectangle2.24x1.725_1_mirrored.d82 my), Count = 1
+        74.D083, Symbol = r35.43 mil (r899.92 my), Count = 2
+        75.D084, Symbol = rect55.12x47.24 mil (rect1400.05x1199.9 my), Count = 2
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_ignore_small_polys - yes
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - no
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - yes
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+         SIP fixed . Made change of no more than 0.25 mil.
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  8. Path : (File) C:/Users/ADMINI~1/Desktop/00/452905-1.0SKL1.gdo
+----------------------------------------------------------------------
+        File size         : 3378533 Bytes
+        Format            : Gerber274x
+        Step  name        : 111
+        Layer name        : 452905-1.0skl1.gdo
+
+        Start translation : 11:19:20
+        End   translation : 11:19:21
+
+        Data type         : ascii
+        Units             : inch
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 2.6
+        Separator char    : *
+
+        Warning! Skipped zero size polygon(s).
+
+
+        Warning! Break polygon by D02 code. See configuration parameter iol_gbr_polygon_break 
+        
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r4.72 mil (r119.89 my), Count = 94
+         2.D011, Symbol = r5.91 mil (r150.12 my), Count = 15968
+         3.D012, Symbol = r3.94 mil (r100.08 my), Count = 40
+         4.D013, Symbol = r5.12 mil (r130.05 my), Count = 51902
+         5.D014, Symbol = r7.87 mil (r199.9 my), Count = 1940
+         6.D015, Symbol = r21.65 mil (r549.91 my), Count = 168
+         7.D016, Symbol = r17.72 mil (r450.09 my), Count = 40
+         8.D017, Symbol = r31.5 mil (r800.1 my), Count = 5
+         9.D018, Symbol = r39.37 mil (r1000 my), Count = 3
+        10.D019, Symbol = r27.56 mil (r700.03 my), Count = 5
+        11.D020, Symbol = r7 mil (r177.8 my), Count = 108
+        12.D021, Symbol = r3 mil (r76.2 my), Count = 14
+        13.D022, Symbol = r35.43 mil (r899.92 my), Count = 1
+        14.D023, Symbol = r10 mil (r254 my), Count = 10
+        15.D024, Symbol = r9.84 mil (r249.94 my), Count = 24
+        16.D025, Symbol = r13.78 mil (r350 my), Count = 2
+        17.D026, Symbol = r19.69 mil (r500.13 my), Count = 16
+        18.D027, Symbol = r29.53 mil (r750.06 my), Count = 1
+        19.D070, Symbol = r5 mil (r127 my), Count = 83946
+        20.D071, Symbol = r4 mil (r101.6 my), Count = 30
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_ignore_small_polys - yes
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - no
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - yes
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*)  9. Path : (File) C:/Users/ADMINI~1/Desktop/00/452905-1.0SKL6.gdo
+----------------------------------------------------------------------
+        File size         : 1034056 Bytes
+        Format            : Gerber274x
+        Step  name        : 111
+        Layer name        : 452905-1.0skl6.gdo
+
+        Start translation : 11:19:21
+        End   translation : 11:19:22
+
+        Data type         : ascii
+        Units             : inch
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 2.6
+        Separator char    : *
+
+        Warning! Break polygon by D02 code. See configuration parameter iol_gbr_polygon_break 
+        
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r4.72 mil (r119.89 my), Count = 84
+         2.D011, Symbol = r5.91 mil (r150.12 my), Count = 10308
+         3.D012, Symbol = r5.12 mil (r130.05 my), Count = 44232
+         4.D013, Symbol = r7.87 mil (r199.9 my), Count = 474
+         5.D014, Symbol = r21.65 mil (r549.91 my), Count = 48
+         6.D015, Symbol = r39.37 mil (r1000 my), Count = 3
+         7.D016, Symbol = r27.56 mil (r700.03 my), Count = 2
+         8.D017, Symbol = r31.5 mil (r800.1 my), Count = 3
+         9.D018, Symbol = r5 mil (r127 my), Count = 10
+        10.D019, Symbol = r29.53 mil (r750.06 my), Count = 2
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_ignore_small_polys - yes
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - no
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - yes
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*) 10. Path : (File) C:/Users/ADMINI~1/Desktop/00/452905-1.0SMD1.gdo
+----------------------------------------------------------------------
+        File size         : 68864 Bytes
+        Format            : Gerber274x
+        Step  name        : 111
+        Layer name        : 452905-1.0smd1.gdo
+
+        Start translation : 11:19:22
+        End   translation : 11:19:22
+
+        Data type         : ascii
+        Units             : inch
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 2.6
+        Separator char    : *
+
+        Macro  converted to standard symbol. See configuration parameter iol_274x_convert_macro 
+        
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r4.72 mil (r119.89 my), Count = 32
+         2.D011, Symbol = rect25.59x23.62 mil (rect649.99x599.95 my), Count = 774
+         3.D012, Symbol = rect23.62x25.59 mil (rect599.95x649.99 my), Count = 710
+         4.D013, Symbol = rect35.43x39.37 mil (rect899.92x1000 my), Count = 118
+         5.D014, Symbol = rect23.62x41.34 mil (rect599.95x1050.04 my), Count = 56
+         6.D015, Symbol = oval78.74x23.62 mil (oval2000x599.95 my), Count = 8
+         7.D016, Symbol = rect51.18x78.74 mil (rect1299.97x2000 my), Count = 2
+         8.D017, Symbol = rect41.34x23.62 mil (rect1050.04x599.95 my), Count = 37
+         9.D018, Symbol = r295.28 mil (r7500.11 my), Count = 7
+        10.D019, Symbol = oval53.15x23.62 mil (oval1350x599.95 my), Count = 65
+        11.D020, Symbol = rect39.37x35.43 mil (rect1000x899.92 my), Count = 124
+        12.D021, Symbol = rect21.65x45.28 mil (rect549.91x1150.11 my), Count = 36
+        13.D022, Symbol = rect45.28x55.12 mil (rect1150.11x1400.05 my), Count = 48
+        14.D023, Symbol = rect55.12x45.28 mil (rect1400.05x1150.11 my), Count = 44
+        15.D024, Symbol = rect61.02x78.74 mil (rect1549.91x2000 my), Count = 6
+        16.D025, Symbol = rect106.3x51.18 mil (rect2700.02x1299.97 my), Count = 20
+        17.D026, Symbol = r9.84 mil (r249.94 my), Count = 153
+        18.D027, Symbol = s173.23 mil (s4400.04 my), Count = 1
+        19.D028, Symbol = oval7.87x33.46 mil (oval199.9x849.89 my), Count = 24
+        20.D029, Symbol = oval33.46x7.87 mil (oval849.89x199.9 my), Count = 24
+        21.D030, Symbol = oval7.87x35.43 mil (oval199.9x899.92 my), Count = 28
+        22.D031, Symbol = oval35.43x7.87 mil (oval899.92x199.9 my), Count = 28
+        23.D032, Symbol = rect88.58x92.52 mil (rect2249.93x2350 my), Count = 2
+        24.D033, Symbol = oval25.59x76.77 mil (oval649.99x1949.96 my), Count = 48
+        25.D034, Symbol = rect55.12x47.24 mil (rect1400.05x1199.9 my), Count = 2
+        26.D035, Symbol = rect15.75x39.37 mil (rect400.05x1000 my), Count = 40
+        27.D036, Symbol = i274x.vb_custom_rectangle2.24x1.725_1.d36 mil (i274x.vb_custom_rectangle2.24x1.725_1.d36 my), Count = 3
+        28.D037, Symbol = r11.81 mil (r299.98 my), Count = 491
+        29.D038, Symbol = rect51.18x106.3 mil (rect1299.97x2700.02 my), Count = 10
+        30.D039, Symbol = s102.36 mil (s2599.95 my), Count = 2
+        31.D040, Symbol = oval10.63x31.5 mil (oval270x800.1 my), Count = 36
+        32.D041, Symbol = oval31.5x10.63 mil (oval800.1x270 my), Count = 36
+        33.D042, Symbol = rect23.62x47.24 mil (rect599.95x1199.9 my), Count = 4
+        34.D043, Symbol = rect228.35x100.39 mil (rect5800.09x2549.91 my), Count = 4
+        35.D044, Symbol = rect78.74x106.3 mil (rect2000x2700.02 my), Count = 6
+        36.D045, Symbol = rect137.8x90.55 mil (rect3500.12x2299.97 my), Count = 6
+        37.D046, Symbol = rect31.5x51.18 mil (rect800.1x1299.97 my), Count = 8
+        38.D047, Symbol = rect82.68x118.11 mil (rect2100.07x3000 my), Count = 4
+        39.D048, Symbol = oval23.62x53.15 mil (oval599.95x1350 my), Count = 26
+        40.D049, Symbol = rect51.18x131.89 mil (rect1299.97x3350 my), Count = 4
+        41.D050, Symbol = rect78.74x51.18 mil (rect2000x1299.97 my), Count = 2
+        42.D051, Symbol = rect62.99x137.8 mil (rect1599.95x3500.12 my), Count = 4
+        43.D052, Symbol = rect51.18x47.24 mil (rect1299.97x1199.9 my), Count = 12
+        44.D053, Symbol = rect167.32x82.68 mil (rect4249.93x2100.07 my), Count = 2
+        45.D054, Symbol = rect106.3x78.74 mil (rect2700.02x2000 my), Count = 4
+        46.D055, Symbol = rect212.6x114.17 mil (rect5400.04x2899.92 my), Count = 2
+        47.D056, Symbol = s135.83 mil (s3450.08 my), Count = 1
+        48.D057, Symbol = oval10.63x33.46 mil (oval270x849.89 my), Count = 20
+        49.D058, Symbol = oval33.46x10.63 mil (oval849.89x270 my), Count = 36
+        50.D059, Symbol = rect86.61x135.83 mil (rect2199.9x3450.08 my), Count = 2
+        51.D060, Symbol = rect92.52x88.58 mil (rect2350x2249.93 my), Count = 2
+        52.D061, Symbol = rect145.67x137.8 mil (rect3700.02x3500.12 my), Count = 4
+        53.D062, Symbol = s106.3 mil (s2700.02 my), Count = 1
+        54.D063, Symbol = s124.02 mil (s3150.11 my), Count = 1
+        55.D064, Symbol = oval39.37x10.63 mil (oval1000x270 my), Count = 14
+        56.D065, Symbol = oval10.63x39.37 mil (oval270x1000 my), Count = 14
+        57.D066, Symbol = rect82.68x157.48 mil (rect2100.07x4000 my), Count = 4
+        58.D067, Symbol = rect88.58x62.99 mil (rect2249.93x1599.95 my), Count = 2
+        59.D068, Symbol = rect96.46x92.52 mil (rect2450.09x2350 my), Count = 2
+        60.D069, Symbol = rect47.24x51.18 mil (rect1199.9x1299.97 my), Count = 8
+        61.D070, Symbol = oval59.06x15.75 mil (oval1500.13x400.05 my), Count = 30
+        62.D071, Symbol = r15.75 mil (r400.05 my), Count = 192
+        63.D072, Symbol = r39.37 mil (r1000 my), Count = 2
+        64.D073, Symbol = s208.66 mil (s5299.97 my), Count = 1
+        65.D074, Symbol = oval10.63x29.53 mil (oval270x750.06 my), Count = 12
+        66.D075, Symbol = rect104.33x39.37 mil (rect2649.98x1000 my), Count = 1
+        67.D076, Symbol = rect29.53x21.65 mil (rect750.06x549.91 my), Count = 4
+        68.D077, Symbol = rect72.83x86.61 mil (rect1849.88x2199.9 my), Count = 2
+        69.D078, Symbol = rect21.65x35.43 mil (rect549.91x899.92 my), Count = 2
+        70.D079, Symbol = rect10.63x35.43 mil (rect270x899.92 my), Count = 30
+        71.D080, Symbol = i274x.vb_custom_rectangle22.1x3.95_1soldermask.d80 mil (i274x.vb_custom_rectangle22.1x3.95_1soldermask.d80 my), Count = 1
+        72.D081, Symbol = rect41.34x19.69 mil (rect1050.04x500.13 my), Count = 8
+        73.D082, Symbol = rect82.68x167.32 mil (rect2100.07x4249.93 my), Count = 2
+        74.D083, Symbol = rect78.74x61.02 mil (rect2000x1549.91 my), Count = 2
+        75.D084, Symbol = rect88.58x70.87 mil (rect2249.93x1800.1 my), Count = 2
+        76.D085, Symbol = rect49.21x106.3 mil (rect1249.94x2700.02 my), Count = 4
+        77.D086, Symbol = i274x.vb_custom_rectangle4.05x2.05_1.d86 mil (i274x.vb_custom_rectangle4.05x2.05_1.d86 my), Count = 1
+        78.D087, Symbol = rect10.63x59.06 mil (rect270x1500.13 my), Count = 20
+        79.D088, Symbol = rect62.99x70.87 mil (rect1599.95x1800.1 my), Count = 2
+        80.D089, Symbol = rect66.93x27.56 mil (rect1700.02x700.03 my), Count = 60
+        81.D090, Symbol = rect84.65x37.4 mil (rect2150.11x949.96 my), Count = 3
+        82.D091, Symbol = rect84.65x127.95 mil (rect2150.11x3249.93 my), Count = 1
+        83.D092, Symbol = i274x.vb_custom_rectangle2.24x1.725_1.d92 mil (i274x.vb_custom_rectangle2.24x1.725_1.d92 my), Count = 2
+        84.D093, Symbol = rect23.62x51.18 mil (rect599.95x1299.97 my), Count = 8
+        85.D094, Symbol = i274x.vb_custom_rectangle3.9x3.8_1.d94 mil (i274x.vb_custom_rectangle3.9x3.8_1.d94 my), Count = 1
+        86.D095, Symbol = oval10.63x59.06 mil (oval270x1500.13 my), Count = 32
+        87.D096, Symbol = oval59.06x10.63 mil (oval1500.13x270 my), Count = 32
+        88.D097, Symbol = rect98.43x106.3 mil (rect2500.12x2700.02 my), Count = 2
+        89.D098, Symbol = rect10.63x49.21 mil (rect270x1249.94 my), Count = 50
+        90.D099, Symbol = rect23.62x61.02 mil (rect599.95x1549.91 my), Count = 10
+        91.D100, Symbol = rect47.24x70.87 mil (rect1199.9x1800.1 my), Count = 2
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_ignore_small_polys - yes
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - no
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - yes
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*) 11. Path : (File) C:/Users/ADMINI~1/Desktop/00/452905-1.0SMD6.gdo
+----------------------------------------------------------------------
+        File size         : 33797 Bytes
+        Format            : Gerber274x
+        Step  name        : 111
+        Layer name        : 452905-1.0smd6.gdo
+
+        Start translation : 11:19:22
+        End   translation : 11:19:22
+
+        Data type         : ascii
+        Units             : inch
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 2.6
+        Separator char    : *
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r4.72 mil (r119.89 my), Count = 32
+         2.D011, Symbol = rect25.59x23.62 mil (rect649.99x599.95 my), Count = 650
+         3.D012, Symbol = rect35.43x39.37 mil (rect899.92x1000 my), Count = 68
+         4.D013, Symbol = rect23.62x25.59 mil (rect599.95x649.99 my), Count = 582
+         5.D014, Symbol = rect106.3x51.18 mil (rect2700.02x1299.97 my), Count = 6
+         6.D015, Symbol = oval23.62x53.15 mil (oval599.95x1350 my), Count = 10
+         7.D016, Symbol = rect39.37x35.43 mil (rect1000x899.92 my), Count = 52
+         8.D017, Symbol = rect45.28x55.12 mil (rect1150.11x1400.05 my), Count = 20
+         9.D018, Symbol = s190.94 mil (s4849.88 my), Count = 1
+        10.D019, Symbol = oval35.43x10.63 mil (oval899.92x270 my), Count = 36
+        11.D020, Symbol = rect23.62x41.34 mil (rect599.95x1050.04 my), Count = 18
+        12.D021, Symbol = rect39.37x15.75 mil (rect1000x400.05 my), Count = 8
+        13.D022, Symbol = i274x.vb_custom_rectangle2.24x1.725_1_mirrored.d22 mil (i274x.vb_custom_rectangle2.24x1.725_1_mirrored.d22 my), Count = 1
+        14.D023, Symbol = rect47.24x27.56 mil (rect1199.9x700.03 my), Count = 9
+        15.D024, Symbol = rect47.24x39.37 mil (rect1199.9x1000 my), Count = 2
+        16.D025, Symbol = rect31.5x39.37 mil (rect800.1x1000 my), Count = 1
+        17.D026, Symbol = rect110.24x39.37 mil (rect2800.1x1000 my), Count = 1
+        18.D027, Symbol = i274x.vb_custom_rectangle1.9x1.3_1_mirrored.d27 mil (i274x.vb_custom_rectangle1.9x1.3_1_mirrored.d27 my), Count = 1
+        19.D028, Symbol = oval47.24x15.75 mil (oval1199.9x400.05 my), Count = 8
+        20.D029, Symbol = oval78.74x23.62 mil (oval2000x599.95 my), Count = 30
+        21.D030, Symbol = rect165.35x94.49 mil (rect4199.89x2400.05 my), Count = 1
+        22.D031, Symbol = rect181.1x94.49 mil (rect4599.94x2400.05 my), Count = 1
+        23.D032, Symbol = rect55.12x45.28 mil (rect1400.05x1150.11 my), Count = 16
+        24.D033, Symbol = rect29.53x21.65 mil (rect750.06x549.91 my), Count = 6
+        25.D034, Symbol = oval10.63x33.46 mil (oval270x849.89 my), Count = 8
+        26.D035, Symbol = oval33.46x10.63 mil (oval849.89x270 my), Count = 40
+        27.D036, Symbol = i274x.vb_custom_rectangle4.05x2.05_1_mirrored.d36 mil (i274x.vb_custom_rectangle4.05x2.05_1_mirrored.d36 my), Count = 2
+        28.D037, Symbol = rect21.65x29.53 mil (rect549.91x750.06 my), Count = 4
+        29.D038, Symbol = oval15.75x66.93 mil (oval400.05x1700.02 my), Count = 20
+        30.D039, Symbol = oval53.15x23.62 mil (oval1350x599.95 my), Count = 15
+        31.D040, Symbol = oval23.62x78.74 mil (oval599.95x2000 my), Count = 22
+        32.D041, Symbol = rect15.75x39.37 mil (rect400.05x1000 my), Count = 8
+        33.D042, Symbol = i274x.vb_custom_rectangle2.24x1.725_1_mirrored.d42 mil (i274x.vb_custom_rectangle2.24x1.725_1_mirrored.d42 my), Count = 1
+        34.D043, Symbol = rect55.12x47.24 mil (rect1400.05x1199.9 my), Count = 2
+        35.D070, Symbol = oval10.63x35.43 mil (oval270x899.92 my), Count = 36
+        36.D071, Symbol = rect41.34x23.62 mil (rect1050.04x599.95 my), Count = 24
+        37.D072, Symbol = rect51.18x106.3 mil (rect1299.97x2700.02 my), Count = 4
+        38.D073, Symbol = rect70.87x88.58 mil (rect1800.1x2249.93 my), Count = 2
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_ignore_small_polys - yes
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - no
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - yes
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*) 12. Path : (File) C:/Users/ADMINI~1/Desktop/00/452905-1.0SML1.gdo
+----------------------------------------------------------------------
+        File size         : 71865 Bytes
+        Format            : Gerber274x
+        Step  name        : 111
+        Layer name        : 452905-1.0sml1.gdo
+
+        Start translation : 11:19:22
+        End   translation : 11:19:23
+
+        Data type         : ascii
+        Units             : inch
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 2.6
+        Separator char    : *
+
+        Macro  converted to standard symbol. See configuration parameter iol_274x_convert_macro 
+        
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r4.72 mil (r119.89 my), Count = 32
+         2.D011, Symbol = rect31.5x29.53 mil (rect800.1x750.06 my), Count = 774
+         3.D012, Symbol = rect29.53x31.5 mil (rect750.06x800.1 my), Count = 710
+         4.D013, Symbol = rect41.34x45.28 mil (rect1050.04x1150.11 my), Count = 118
+         5.D014, Symbol = rect29.53x47.24 mil (rect750.06x1199.9 my), Count = 56
+         6.D015, Symbol = oval84.65x29.53 mil (oval2150.11x750.06 my), Count = 8
+         7.D016, Symbol = rect57.09x84.65 mil (rect1450.09x2150.11 my), Count = 2
+         8.D017, Symbol = rect47.24x29.53 mil (rect1199.9x750.06 my), Count = 37
+         9.D018, Symbol = r261.81 mil (r6649.98 my), Count = 7
+        10.D019, Symbol = r242.13 mil (r6150.1 my), Count = 4
+        11.D020, Symbol = r21.65 mil (r549.91 my), Count = 192
+        12.D021, Symbol = rect45.28x41.34 mil (rect1150.11x1050.04 my), Count = 124
+        13.D022, Symbol = rect27.56x51.18 mil (rect700.03x1299.97 my), Count = 36
+        14.D023, Symbol = rect51.18x61.02 mil (rect1299.97x1549.91 my), Count = 48
+        15.D024, Symbol = r78.74 mil (r2000 my), Count = 6
+        16.D025, Symbol = rect61.02x51.18 mil (rect1549.91x1299.97 my), Count = 44
+        17.D026, Symbol = rect66.93x84.65 mil (rect1700.02x2150.11 my), Count = 6
+        18.D027, Symbol = rect112.2x57.09 mil (rect2849.88x1450.09 my), Count = 20
+        19.D028, Symbol = r72.83 mil (r1849.88 my), Count = 13
+        20.D029, Symbol = s72.83 mil (s1849.88 my), Count = 4
+        21.D030, Symbol = oval11.81x37.4 mil (oval299.98x949.96 my), Count = 24
+        22.D031, Symbol = oval37.4x11.81 mil (oval949.96x299.98 my), Count = 24
+        23.D032, Symbol = r98.43 mil (r2500.12 my), Count = 2
+        24.D033, Symbol = s214.57 mil (s5450.08 my), Count = 1
+        25.D034, Symbol = oval11.81x39.37 mil (oval299.98x1000 my), Count = 28
+        26.D035, Symbol = oval39.37x11.81 mil (oval1000x299.98 my), Count = 28
+        27.D036, Symbol = rect94.49x98.43 mil (rect2400.05x2500.12 my), Count = 2
+        28.D037, Symbol = oval31.5x82.68 mil (oval800.1x2100.07 my), Count = 48
+        29.D038, Symbol = rect61.02x53.15 mil (rect1549.91x1350 my), Count = 2
+        30.D039, Symbol = rect21.65x45.28 mil (rect549.91x1150.11 my), Count = 40
+        31.D040, Symbol = i274x.vb_custom_rectangle2.39x1.875_1.d40 mil (i274x.vb_custom_rectangle2.39x1.875_1.d40 my), Count = 3
+        32.D041, Symbol = r45.28 mil (r1150.11 my), Count = 5
+        33.D042, Symbol = r17.72 mil (r450.09 my), Count = 491
+        34.D043, Symbol = rect57.09x112.2 mil (rect1450.09x2849.88 my), Count = 10
+        35.D044, Symbol = s108.27 mil (s2750.06 my), Count = 2
+        36.D045, Symbol = oval14.57x35.43 mil (oval370.08x899.92 my), Count = 36
+        37.D046, Symbol = oval35.43x14.57 mil (oval899.92x370.08 my), Count = 36
+        38.D047, Symbol = rect29.53x53.15 mil (rect750.06x1350 my), Count = 4
+        39.D048, Symbol = r118.11 mil (r3000 my), Count = 3
+        40.D049, Symbol = rect234.25x106.3 mil (rect5949.95x2700.02 my), Count = 4
+        41.D050, Symbol = i274x.vb_custom_round1.65_1.d50 mil (i274x.vb_custom_round1.65_1.d50 my), Count = 3
+        42.D051, Symbol = i274x.vb_custom_round1.65_1.d51 mil (i274x.vb_custom_round1.65_1.d51 my), Count = 3
+        43.D052, Symbol = rect57.09x68.9 mil (rect1450.09x1750.06 my), Count = 4
+        44.D053, Symbol = oval57.09x68.9 mil (oval1450.09x1750.06 my), Count = 21
+        45.D054, Symbol = rect143.7x96.46 mil (rect3649.98x2450.09 my), Count = 6
+        46.D055, Symbol = rect37.4x57.09 mil (rect949.96x1450.09 my), Count = 8
+        47.D056, Symbol = rect88.58x124.02 mil (rect2249.93x3150.11 my), Count = 4
+        48.D057, Symbol = oval29.53x59.06 mil (oval750.06x1500.13 my), Count = 26
+        49.D058, Symbol = rect57.09x137.8 mil (rect1450.09x3500.12 my), Count = 4
+        50.D059, Symbol = r57.09 mil (r1450.09 my), Count = 2
+        51.D060, Symbol = rect84.65x57.09 mil (rect2150.11x1450.09 my), Count = 2
+        52.D061, Symbol = rect68.9x143.7 mil (rect1750.06x3649.98 my), Count = 4
+        53.D062, Symbol = r53.15 mil (r1350 my), Count = 2
+        54.D063, Symbol = rect57.09x53.15 mil (rect1450.09x1350 my), Count = 12
+        55.D064, Symbol = rect173.23x88.58 mil (rect4400.04x2249.93 my), Count = 2
+        56.D065, Symbol = rect68.9x57.09 mil (rect1750.06x1450.09 my), Count = 7
+        57.D066, Symbol = oval68.9x57.09 mil (oval1750.06x1450.09 my), Count = 31
+        58.D067, Symbol = i274x.vb_custom_round1.65_1.d67 mil (i274x.vb_custom_round1.65_1.d67 my), Count = 2
+        59.D068, Symbol = i274x.vb_custom_round1.65_1.d68 mil (i274x.vb_custom_round1.65_1.d68 my), Count = 2
+        60.D069, Symbol = rect218.5x120.08 mil (rect5549.9x3050.03 my), Count = 2
+        61.D070, Symbol = oval59.06x29.53 mil (oval1500.13x750.06 my), Count = 65
+        62.D071, Symbol = oval64.96x21.65 mil (oval1649.99x549.91 my), Count = 30
+        63.D072, Symbol = r15.75 mil (r400.05 my), Count = 153
+        64.D073, Symbol = s179.13 mil (s4549.9 my), Count = 1
+        65.D074, Symbol = s141.73 mil (s3599.94 my), Count = 1
+        66.D075, Symbol = oval14.57x37.4 mil (oval370.08x949.96 my), Count = 16
+        67.D076, Symbol = oval37.4x14.57 mil (oval949.96x370.08 my), Count = 16
+        68.D077, Symbol = rect92.52x141.73 mil (rect2350x3599.94 my), Count = 2
+        69.D078, Symbol = rect98.43x94.49 mil (rect2500.12x2400.05 my), Count = 2
+        70.D079, Symbol = rect151.57x143.7 mil (rect3849.88x3649.98 my), Count = 4
+        71.D080, Symbol = s112.2 mil (s2849.88 my), Count = 2
+        72.D081, Symbol = s129.92 mil (s3299.97 my), Count = 1
+        73.D082, Symbol = oval43.31x14.57 mil (oval1100.08x370.08 my), Count = 14
+        74.D083, Symbol = oval14.57x43.31 mil (oval370.08x1100.08 my), Count = 14
+        75.D084, Symbol = rect88.58x163.39 mil (rect2249.93x4150.11 my), Count = 4
+        76.D085, Symbol = rect94.49x68.9 mil (rect2400.05x1750.06 my), Count = 2
+        77.D086, Symbol = rect102.36x98.43 mil (rect2599.95x2500.12 my), Count = 2
+        78.D087, Symbol = rect53.15x57.09 mil (rect1350x1450.09 my), Count = 8
+        79.D088, Symbol = oval14.57x33.46 mil (oval370.08x849.89 my), Count = 12
+        80.D089, Symbol = rect108.27x43.31 mil (rect2750.06x1100.08 my), Count = 1
+        81.D090, Symbol = rect35.43x27.56 mil (rect899.92x700.03 my), Count = 4
+        82.D091, Symbol = rect78.74x92.52 mil (rect2000x2350 my), Count = 2
+        83.D092, Symbol = rect27.56x41.34 mil (rect700.03x1050.04 my), Count = 2
+        84.D093, Symbol = rect14.57x39.37 mil (rect370.08x1000 my), Count = 30
+        85.D094, Symbol = i274x.vb_custom_rectangle22.1x3.95_1soldermask.d94 mil (i274x.vb_custom_rectangle22.1x3.95_1soldermask.d94 my), Count = 1
+        86.D095, Symbol = r112.2 mil (r2849.88 my), Count = 2
+        87.D096, Symbol = rect47.24x25.59 mil (rect1199.9x649.99 my), Count = 8
+        88.D097, Symbol = rect88.58x173.23 mil (rect2249.93x4400.04 my), Count = 2
+        89.D098, Symbol = rect84.65x66.93 mil (rect2150.11x1700.02 my), Count = 2
+        90.D099, Symbol = rect94.49x76.77 mil (rect2400.05x1949.96 my), Count = 2
+        91.D100, Symbol = rect55.12x112.2 mil (rect1400.05x2849.88 my), Count = 4
+        92.D101, Symbol = oval16.54x39.37 mil (oval420.12x1000 my), Count = 4
+        93.D102, Symbol = oval39.37x16.54 mil (oval1000x420.12 my), Count = 20
+        94.D103, Symbol = i274x.vb_custom_rectangle4.2x2.2_1.d103 mil (i274x.vb_custom_rectangle4.2x2.2_1.d103 my), Count = 1
+        95.D104, Symbol = r31.5 mil (r800.1 my), Count = 2
+        96.D105, Symbol = rect14.57x62.99 mil (rect370.08x1599.95 my), Count = 20
+        97.D106, Symbol = rect68.9x76.77 mil (rect1750.06x1949.96 my), Count = 2
+        98.D107, Symbol = r41.34 mil (r1050.04 my), Count = 2
+        99.D108, Symbol = rect72.83x33.46 mil (rect1849.88x849.89 my), Count = 60
+        100.D109, Symbol = rect90.55x43.31 mil (rect2299.97x1100.08 my), Count = 3
+        101.D110, Symbol = rect90.55x133.86 mil (rect2299.97x3400.05 my), Count = 1
+        102.D111, Symbol = i274x.vb_custom_rectangle2.39x1.875_1.d111 mil (i274x.vb_custom_rectangle2.39x1.875_1.d111 my), Count = 2
+        103.D112, Symbol = rect29.53x57.09 mil (rect750.06x1450.09 my), Count = 8
+        104.D113, Symbol = i274x.vb_custom_rectangle4.05x3.95_1.d113 mil (i274x.vb_custom_rectangle4.05x3.95_1.d113 my), Count = 1
+        105.D114, Symbol = oval14.57x62.99 mil (oval370.08x1599.95 my), Count = 32
+        106.D115, Symbol = oval62.99x14.57 mil (oval1599.95x370.08 my), Count = 32
+        107.D116, Symbol = rect104.33x112.2 mil (rect2649.98x2849.88 my), Count = 2
+        108.D117, Symbol = rect14.57x53.15 mil (rect370.08x1350 my), Count = 50
+        109.D118, Symbol = rect29.53x66.93 mil (rect750.06x1700.02 my), Count = 10
+        110.D119, Symbol = rect53.15x76.77 mil (rect1350x1949.96 my), Count = 2
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_ignore_small_polys - yes
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - no
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - yes
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*) 13. Path : (File) C:/Users/ADMINI~1/Desktop/00/452905-1.0SML6.gdo
+----------------------------------------------------------------------
+        File size         : 46850 Bytes
+        Format            : Gerber274x
+        Step  name        : 111
+        Layer name        : 452905-1.0sml6.gdo
+
+        Start translation : 11:19:23
+        End   translation : 11:19:23
+
+        Data type         : ascii
+        Units             : inch
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 2.6
+        Separator char    : *
+
+        Macro  converted to standard symbol. See configuration parameter iol_274x_convert_macro 
+        
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r4.72 mil (r119.89 my), Count = 32
+         2.D011, Symbol = rect31.5x29.53 mil (rect800.1x750.06 my), Count = 650
+         3.D012, Symbol = r45.28 mil (r1150.11 my), Count = 198
+         4.D013, Symbol = rect41.34x45.28 mil (rect1050.04x1150.11 my), Count = 68
+         5.D014, Symbol = rect29.53x31.5 mil (rect750.06x800.1 my), Count = 582
+         6.D015, Symbol = rect112.2x57.09 mil (rect2849.88x1450.09 my), Count = 6
+         7.D016, Symbol = oval29.53x59.06 mil (oval750.06x1500.13 my), Count = 10
+         8.D017, Symbol = rect45.28x41.34 mil (rect1150.11x1050.04 my), Count = 52
+         9.D018, Symbol = r261.81 mil (r6649.98 my), Count = 7
+        10.D019, Symbol = r242.13 mil (r6150.1 my), Count = 4
+        11.D020, Symbol = s72.83 mil (s1849.88 my), Count = 4
+        12.D021, Symbol = s196.85 mil (s5000 my), Count = 1
+        13.D022, Symbol = oval39.37x14.57 mil (oval1000x370.08 my), Count = 36
+        14.D023, Symbol = oval14.57x39.37 mil (oval370.08x1000 my), Count = 36
+        15.D024, Symbol = rect47.24x29.53 mil (rect1199.9x750.06 my), Count = 24
+        16.D025, Symbol = rect29.53x47.24 mil (rect750.06x1199.9 my), Count = 18
+        17.D026, Symbol = rect45.28x21.65 mil (rect1150.11x549.91 my), Count = 8
+        18.D027, Symbol = i274x.vb_custom_rectangle2.39x1.875_1_mirrored.d27 mil (i274x.vb_custom_rectangle2.39x1.875_1_mirrored.d27 my), Count = 1
+        19.D028, Symbol = rect57.09x68.9 mil (rect1450.09x1750.06 my), Count = 4
+        20.D029, Symbol = oval57.09x68.9 mil (oval1450.09x1750.06 my), Count = 21
+        21.D030, Symbol = rect53.15x45.28 mil (rect1350x1150.11 my), Count = 2
+        22.D031, Symbol = rect37.4x45.28 mil (rect949.96x1150.11 my), Count = 1
+        23.D032, Symbol = rect116.14x45.28 mil (rect2949.96x1150.11 my), Count = 1
+        24.D033, Symbol = i274x.vb_custom_rectangle2.05x1.45_1_mirrored.d33 mil (i274x.vb_custom_rectangle2.05x1.45_1_mirrored.d33 my), Count = 1
+        25.D034, Symbol = r57.09 mil (r1450.09 my), Count = 2
+        26.D035, Symbol = oval53.15x21.65 mil (oval1350x549.91 my), Count = 8
+        27.D036, Symbol = oval84.65x29.53 mil (oval2150.11x750.06 my), Count = 30
+        28.D037, Symbol = rect57.09x112.2 mil (rect1450.09x2849.88 my), Count = 4
+        29.D038, Symbol = rect76.77x94.49 mil (rect1949.96x2400.05 my), Count = 2
+        30.D039, Symbol = r53.15 mil (r1350 my), Count = 2
+        31.D040, Symbol = rect171.26x100.39 mil (rect4350x2549.91 my), Count = 1
+        32.D041, Symbol = rect187.01x100.39 mil (rect4750.06x2549.91 my), Count = 1
+        33.D042, Symbol = rect61.02x51.18 mil (rect1549.91x1299.97 my), Count = 16
+        34.D043, Symbol = rect68.9x57.09 mil (rect1750.06x1450.09 my), Count = 7
+        35.D044, Symbol = oval68.9x57.09 mil (oval1750.06x1450.09 my), Count = 31
+        36.D045, Symbol = rect35.43x27.56 mil (rect899.92x700.03 my), Count = 6
+        37.D046, Symbol = oval16.54x39.37 mil (oval420.12x1000 my), Count = 8
+        38.D047, Symbol = oval39.37x16.54 mil (oval1000x420.12 my), Count = 40
+        39.D048, Symbol = i274x.vb_custom_rectangle4.2x2.2_1_mirrored.d48 mil (i274x.vb_custom_rectangle4.2x2.2_1_mirrored.d48 my), Count = 2
+        40.D049, Symbol = rect27.56x35.43 mil (rect700.03x899.92 my), Count = 4
+        41.D050, Symbol = oval21.65x72.83 mil (oval549.91x1849.88 my), Count = 20
+        42.D051, Symbol = oval59.06x29.53 mil (oval1500.13x750.06 my), Count = 15
+        43.D052, Symbol = r112.2 mil (r2849.88 my), Count = 2
+        44.D053, Symbol = s112.2 mil (s2849.88 my), Count = 1
+        45.D054, Symbol = oval29.53x84.65 mil (oval750.06x2150.11 my), Count = 22
+        46.D055, Symbol = r31.5 mil (r800.1 my), Count = 2
+        47.D056, Symbol = rect21.65x45.28 mil (rect549.91x1150.11 my), Count = 8
+        48.D057, Symbol = i274x.vb_custom_rectangle2.39x1.875_1_mirrored.d57 mil (i274x.vb_custom_rectangle2.39x1.875_1_mirrored.d57 my), Count = 1
+        49.D058, Symbol = r41.34 mil (r1050.04 my), Count = 2
+        50.D059, Symbol = rect61.02x53.15 mil (rect1549.91x1350 my), Count = 2
+        51.D070, Symbol = rect51.18x61.02 mil (rect1299.97x1549.91 my), Count = 20
+        52.D071, Symbol = r72.83 mil (r1849.88 my), Count = 13
+        53.D072, Symbol = r118.11 mil (r3000 my), Count = 3
+        54.D073, Symbol = rect53.15x33.46 mil (rect1350x849.89 my), Count = 9
+        
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_inp_inconsistent_arc_note_threshold - 0.010000 mils
+
+       iol_accept_raw_data - no
+
+       iol_ignore_small_polys - yes
+
+       iol_force_no_break_sr - no
+
+       iol_274x_circle_as_edge_in_poly - no
+
+       iol_274x_dont_accumulate_of - no
+
+       iol_274x_set_octagon_rotation - no
+
+       iol_274x_set_polygon_rotation - yes
+
+       iol_gbr_brk_diag_sqrs - yes
+
+       iol_gbr_ignore_zero_radius_arc - yes
+
+       iol_gbr_diag_type - 2
+
+       iol_274x_ill_polygon - yes
+
+       iol_fix_ill_polygon - yes
+
+       iol_274x_contourize_neg_symbol - yes
+
+       iol_274x_contourize_neg_symbol_color - 1 (Yellow)
+
+       iol_274x_ko_polarity - Absolute
+
+       iol_274x_aname_with_comma - yes
+
+       iol_274x_sr_merge_pcb - yes
+
+       iol_gbr_polygon_break - 1 (Allow)
+
+       iol_diag_rect_line - 1 (line)
+
+       iol_274x_limit_dcode - no
+
+       iol_gbr_eof_err - no
+
+       iol_gbr_arc_as_full_circle - yes
+
+       iol_274x_convert_macro - yes
+
+       iol_274x_convert_macro_tolerance - 0.25
+
+       iol_274x_g75_current_arc - no
+
+       iol_274x_ignore_d01_alone - no
+
+       iol_274x_sr_ij_scaled - no
+
+       iol_inp_default_multi_quadrant - no
+
+       iol_gbr_japan_gerber - no
+
+       iol_gbr_report_japan_gerber - no
+
+       iol_274x_ip_background - no
+
+       iol_274x_am_prim_rot_center - no
+
+       iol_inp_reinput - no
+
+       iol_gbr_arc_on_axis - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*) 14. Path : (File) C:/Users/ADMINI~1/Desktop/00/ThruHoleNonPlated.ncd
+----------------------------------------------------------------------
+        File size         : 465 Bytes
+        Format            : Excellon2
+        Step  name        : 111
+        Layer name        : thruholenonplated.ncd
+
+        Start translation : 11:19:23
+        End   translation : 11:19:23
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 3.3
+        Separator char    : nl
+        Tool units        : mm
+
+             Tools  Histogram    
+        =========================
+         1.T12, Count = 2, Size = 47.244 mil (1200 my)
+         2.T13, Count = 2, Size = 25.591 mil (650 my)
+         3.T14, Count = 2, Size = 35.433 mil (900 my)
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_drl_def_drill - 0 (Excellon)
+
+       iol_exc_use_header - no
+
+       iol_exc_g00_canc_comp - yes
+
+       iol_read_rout_chain - yes
+
+       iol_reset_after_tool_change - no
+
+       iol_exc_g32_g33_comp - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+----------------------------------------------------------------------
+(*) 15. Path : (File) C:/Users/ADMINI~1/Desktop/00/ThruHolePlated.ncd
+----------------------------------------------------------------------
+        File size         : 47127 Bytes
+        Format            : Excellon2
+        Step  name        : 111
+        Layer name        : thruholeplated.ncd
+
+        Start translation : 11:19:23
+        End   translation : 11:19:23
+
+        Data type         : ascii
+        Units             : mm
+        Coordinates       : absolute
+        Zeroes omitted    : leading
+        Number format     : 3.3
+        Separator char    : nl
+        Tool units        : mm
+
+             Tools  Histogram    
+        =========================
+         1.T01, Count = 7, Size = 169.291 mil (4300 my)
+         2.T02, Count = 17, Size = 43.307 mil (1100 my)
+         3.T03, Count = 5, Size = 21.654 mil (550 my)
+         4.T04, Count = 63, Size = 35.433 mil (900 my)
+         5.T05, Count = 2, Size = 27.559 mil (700 my)
+         6.T06, Count = 3, Size = 70.866 mil (1800 my)
+         7.T07, Count = 309, Size = 5.906 mil (150 my)
+         8.T08, Count = 692, Size = 7.874 mil (200 my)
+         9.T09, Count = 1858, Size = 9.843 mil (250 my)
+        10.T10, Count = 562, Size = 11.811 mil (300 my)
+        11.T11, Count = 4, Size = 137.795 mil (3500 my)
+ 
+ The following Configuration params may affect the Input  :
+ ==========================================================
+
+       iol_drl_def_drill - 0 (Excellon)
+
+       iol_exc_use_header - no
+
+       iol_exc_g00_canc_comp - yes
+
+       iol_read_rout_chain - yes
+
+       iol_reset_after_tool_change - no
+
+       iol_exc_g32_g33_comp - no
+ 
+ ==========================================================
+
+----------------------------------------------------------------------
+
+
+        ****************************
+        *Grand Total Dcodes Summary*
+        ****************************
+
+        Assigned Dcodes
+        ===============
+         1.D010, Symbol = r4.72 mil (r119.89 my), Count = 12012
+         2.D011, Symbol = r5 mil (r127 my), Count = 71189
+         3.D011, Symbol = rect31.5x29.53 mil (rect800.1x750.06 my), Count = 1424
+         4.D011, Symbol = r11.81 mil (r299.98 my), Count = 152
+         5.D011, Symbol = r19.69 mil (r500.13 my), Count = 2118
+         6.D011, Symbol = rect25.59x23.62 mil (rect649.99x599.95 my), Count = 1424
+         7.D011, Symbol = r20 mil (r508 my), Count = 36
+         8.D011, Symbol = r5.91 mil (r150.12 my), Count = 26276
+         9.D012, Symbol = r5.91 mil (r150.12 my), Count = 9225
+        10.D012, Symbol = r9.84 mil (r249.94 my), Count = 1326
+        11.D012, Symbol = r7.87 mil (r199.9 my), Count = 21
+        12.D012, Symbol = r14.96 mil (r379.99 my), Count = 247
+        13.D012, Symbol = rect35.43x39.37 mil (rect899.92x1000 my), Count = 68
+        14.D012, Symbol = r5.12 mil (r130.05 my), Count = 44232
+        15.D012, Symbol = rect29.53x31.5 mil (rect750.06x800.1 my), Count = 710
+        16.D012, Symbol = rect23.62x25.59 mil (rect599.95x649.99 my), Count = 710
+        17.D012, Symbol = r45.28 mil (r1150.11 my), Count = 198
+        18.D012, Symbol = r19.69 mil (r500.13 my), Count = 3757
+        19.D012, Symbol = r3.94 mil (r100.08 my), Count = 40
+        20.D013, Symbol = r11.81 mil (r299.98 my), Count = 1218
+        21.D013, Symbol = r7.87 mil (r199.9 my), Count = 474
+        22.D013, Symbol = rect41.34x45.28 mil (rect1050.04x1150.11 my), Count = 186
+        23.D013, Symbol = r4 mil (r101.6 my), Count = 10428
+        24.D013, Symbol = r13.78 mil (r350 my), Count = 309
+        25.D013, Symbol = r5.12 mil (r130.05 my), Count = 51902
+        26.D013, Symbol = rect23.62x25.59 mil (rect599.95x649.99 my), Count = 582
+        27.D013, Symbol = rect35.43x39.37 mil (rect899.92x1000 my), Count = 118
+        28.D013, Symbol = r4.72 mil (r119.89 my), Count = 265
+        29.D013, Symbol = r23.62 mil (r599.95 my), Count = 563
+        30.D014, Symbol = r29.53 mil (r750.06 my), Count = 4
+        31.D014, Symbol = rect29.53x31.5 mil (rect750.06x800.1 my), Count = 582
+        32.D014, Symbol = r7.87 mil (r199.9 my), Count = 1940
+        33.D014, Symbol = rect23.62x41.34 mil (rect599.95x1050.04 my), Count = 56
+        34.D014, Symbol = r19.69 mil (r500.13 my), Count = 2106
+        35.D014, Symbol = r8 mil (r203.2 my), Count = 1
+        36.D014, Symbol = r3.94 mil (r100.08 my), Count = 7
+        37.D014, Symbol = rect29.53x47.24 mil (rect750.06x1199.9 my), Count = 56
+        38.D014, Symbol = r0.5 mil (r12.7 my), Count = 216
+        39.D014, Symbol = r15.75 mil (r400.05 my), Count = 692
+        40.D014, Symbol = r4.5 mil (r114.3 my), Count = 149
+        41.D014, Symbol = r21.65 mil (r549.91 my), Count = 48
+        42.D014, Symbol = rect106.3x51.18 mil (rect2700.02x1299.97 my), Count = 6
+        43.D015, Symbol = r14.96 mil (r379.99 my), Count = 148
+        44.D015, Symbol = oval78.74x23.62 mil (oval2000x599.95 my), Count = 8
+        45.D015, Symbol = oval23.62x53.15 mil (oval599.95x1350 my), Count = 10
+        46.D015, Symbol = r7.87 mil (r199.9 my), Count = 12
+        47.D015, Symbol = r2.5 mil (r63.5 my), Count = 16
+        48.D015, Symbol = r27.56 mil (r700.03 my), Count = 2
+        49.D015, Symbol = r39.37 mil (r1000 my), Count = 3
+        50.D015, Symbol = r13.78 mil (r350 my), Count = 623
+        51.D015, Symbol = r23.62 mil (r599.95 my), Count = 562
+        52.D015, Symbol = oval84.65x29.53 mil (oval2150.11x750.06 my), Count = 8
+        53.D015, Symbol = r21.65 mil (r549.91 my), Count = 168
+        54.D015, Symbol = rect112.2x57.09 mil (rect2849.88x1450.09 my), Count = 6
+        55.D016, Symbol = r192.91 mil (r4899.92 my), Count = 7
+        56.D016, Symbol = r27.56 mil (r700.03 my), Count = 2
+        57.D016, Symbol = r17.72 mil (r450.09 my), Count = 40
+        58.D016, Symbol = rect51.18x78.74 mil (rect1299.97x2000 my), Count = 2
+        59.D016, Symbol = r8 mil (r203.2 my), Count = 14
+        60.D016, Symbol = rect39.37x35.43 mil (rect1000x899.92 my), Count = 52
+        61.D016, Symbol = r15 mil (r381 my), Count = 12
+        62.D016, Symbol = rect57.09x84.65 mil (rect1450.09x2150.11 my), Count = 2
+        63.D016, Symbol = r31.5 mil (r800.1 my), Count = 48
+        64.D016, Symbol = oval29.53x59.06 mil (oval750.06x1500.13 my), Count = 10
+        65.D016, Symbol = r15.75 mil (r400.05 my), Count = 692
+        66.D016, Symbol = r20 mil (r508 my), Count = 54
+        67.D017, Symbol = r23.62 mil (r599.95 my), Count = 640
+        68.D017, Symbol = r31.5 mil (r800.1 my), Count = 8
+        69.D017, Symbol = r9.84 mil (r249.94 my), Count = 2090
+        70.D017, Symbol = r7.87 mil (r199.9 my), Count = 3433
+        71.D017, Symbol = r177.17 mil (r4500.12 my), Count = 4
+        72.D017, Symbol = rect45.28x41.34 mil (rect1150.11x1050.04 my), Count = 52
+        73.D017, Symbol = r192.91 mil (r4899.92 my), Count = 7
+        74.D017, Symbol = r15 mil (r381 my), Count = 8
+        75.D017, Symbol = r8 mil (r203.2 my), Count = 3
+        76.D017, Symbol = rect47.24x29.53 mil (rect1199.9x750.06 my), Count = 37
+        77.D017, Symbol = rect45.28x55.12 mil (rect1150.11x1400.05 my), Count = 20
+        78.D017, Symbol = rect41.34x23.62 mil (rect1050.04x599.95 my), Count = 37
+        79.D018, Symbol = r66.93 mil (r1700.02 my), Count = 17
+        80.D018, Symbol = r15.75 mil (r400.05 my), Count = 697
+        81.D018, Symbol = r5 mil (r127 my), Count = 10
+        82.D018, Symbol = r261.81 mil (r6649.98 my), Count = 14
+        83.D018, Symbol = r13.78 mil (r350 my), Count = 314
+        84.D018, Symbol = s190.94 mil (s4849.88 my), Count = 1
+        85.D018, Symbol = r295.28 mil (r7500.11 my), Count = 7
+        86.D018, Symbol = r177.17 mil (r4500.12 my), Count = 4
+        87.D018, Symbol = r10 mil (r254 my), Count = 248
+        88.D018, Symbol = r3.75 mil (r95.25 my), Count = 8
+        89.D018, Symbol = r39.37 mil (r1000 my), Count = 3
+        90.D018, Symbol = r23.62 mil (r599.95 my), Count = 620
+        91.D019, Symbol = r242.13 mil (r6150.1 my), Count = 8
+        92.D019, Symbol = r31.5 mil (r800.1 my), Count = 11
+        93.D019, Symbol = r2 mil (r50.8 my), Count = 328
+        94.D019, Symbol = oval35.43x10.63 mil (oval899.92x270 my), Count = 36
+        95.D019, Symbol = oval53.15x23.62 mil (oval1350x599.95 my), Count = 65
+        96.D019, Symbol = r27.56 mil (r700.03 my), Count = 5
+        97.D019, Symbol = r29.53 mil (r750.06 my), Count = 2
+        98.D019, Symbol = r66.93 mil (r1700.02 my), Count = 17
+        99.D019, Symbol = r39.37 mil (r1000 my), Count = 209
+        100.D019, Symbol = r23.62 mil (r599.95 my), Count = 564
+        101.D019, Symbol = r19.69 mil (r500.13 my), Count = 1866
+        102.D020, Symbol = r7 mil (r177.8 my), Count = 108
+        103.D020, Symbol = r4.7 mil (r119.38 my), Count = 112
+        104.D020, Symbol = r39.37 mil (r1000 my), Count = 39
+        105.D020, Symbol = r21.65 mil (r549.91 my), Count = 192
+        106.D020, Symbol = rect23.62x41.34 mil (rect599.95x1050.04 my), Count = 18
+        107.D020, Symbol = r51.18 mil (r1299.97 my), Count = 2
+        108.D020, Symbol = rect39.37x35.43 mil (rect1000x899.92 my), Count = 124
+        109.D020, Symbol = s72.83 mil (s1849.88 my), Count = 4
+        110.D020, Symbol = r4 mil (r101.6 my), Count = 47
+        111.D020, Symbol = r14.96 mil (r379.99 my), Count = 5
+        112.D020, Symbol = r47.24 mil (r1199.9 my), Count = 2
+        113.D021, Symbol = s196.85 mil (s5000 my), Count = 1
+        114.D021, Symbol = r3 mil (r76.2 my), Count = 14
+        115.D021, Symbol = r6.5 mil (r165.1 my), Count = 38
+        116.D021, Symbol = r7.87 mil (r199.9 my), Count = 299
+        117.D021, Symbol = r47.24 mil (r1199.9 my), Count = 2
+        118.D021, Symbol = r40 mil (r1016 my), Count = 7
+        119.D021, Symbol = rect21.65x45.28 mil (rect549.91x1150.11 my), Count = 36
+        120.D021, Symbol = oval62.99x51.18 mil (oval1599.95x1299.97 my), Count = 38
+        121.D021, Symbol = r10 mil (r254 my), Count = 5
+        122.D021, Symbol = rect45.28x41.34 mil (rect1150.11x1050.04 my), Count = 124
+        123.D021, Symbol = rect39.37x15.75 mil (rect1000x400.05 my), Count = 8
+        124.D022, Symbol = r5 mil (r127 my), Count = 54
+        125.D022, Symbol = i274x.vb_custom_rectangle2.24x1.725_1_mirrored.d22 mil (i274x.vb_custom_rectangle2.24x1.725_1_mirrored.d22 my), Count = 1
+        126.D022, Symbol = r39.37 mil (r1000 my), Count = 7
+        127.D022, Symbol = oval39.37x14.57 mil (oval1000x370.08 my), Count = 36
+        128.D022, Symbol = r31.5 mil (r800.1 my), Count = 9
+        129.D022, Symbol = oval62.99x51.18 mil (oval1599.95x1299.97 my), Count = 38
+        130.D022, Symbol = rect45.28x55.12 mil (rect1150.11x1400.05 my), Count = 48
+        131.D022, Symbol = r106.3 mil (r2700.02 my), Count = 3
+        132.D022, Symbol = r5.5 mil (r139.7 my), Count = 3351
+        133.D022, Symbol = r35.43 mil (r899.92 my), Count = 1
+        134.D022, Symbol = rect27.56x51.18 mil (rect700.03x1299.97 my), Count = 36
+        135.D023, Symbol = r31.5 mil (r800.1 my), Count = 15
+        136.D023, Symbol = r106.3 mil (r2700.02 my), Count = 3
+        137.D023, Symbol = r10 mil (r254 my), Count = 10
+        138.D023, Symbol = r15 mil (r381 my), Count = 569
+        139.D023, Symbol = r23.62 mil (r599.95 my), Count = 562
+        140.D023, Symbol = r25.59 mil (r649.99 my), Count = 2
+        141.D023, Symbol = rect55.12x45.28 mil (rect1400.05x1150.11 my), Count = 44
+        142.D023, Symbol = rect51.18x61.02 mil (rect1299.97x1549.91 my), Count = 48
+        143.D023, Symbol = rect47.24x27.56 mil (rect1199.9x700.03 my), Count = 9
+        144.D023, Symbol = oval14.57x39.37 mil (oval370.08x1000 my), Count = 36
+        145.D023, Symbol = r6.5 mil (r165.1 my), Count = 97
+        146.D024, Symbol = rect61.02x78.74 mil (rect1549.91x2000 my), Count = 6
+        147.D024, Symbol = r78.74 mil (r2000 my), Count = 6
+        148.D024, Symbol = rect47.24x29.53 mil (rect1199.9x750.06 my), Count = 24
+        149.D024, Symbol = rect47.24x39.37 mil (rect1199.9x1000 my), Count = 2
+        150.D024, Symbol = r4.5 mil (r114.3 my), Count = 41
+        151.D024, Symbol = r192.91 mil (r4899.92 my), Count = 14
+        152.D024, Symbol = r35.43 mil (r899.92 my), Count = 2
+        153.D024, Symbol = r9.84 mil (r249.94 my), Count = 24
+        154.D024, Symbol = r25.59 mil (r649.99 my), Count = 2
+        155.D024, Symbol = r5.2 mil (r132.08 my), Count = 692
+        156.D025, Symbol = r35.43 mil (r899.92 my), Count = 2
+        157.D025, Symbol = rect61.02x51.18 mil (rect1549.91x1299.97 my), Count = 44
+        158.D025, Symbol = r5.5 mil (r139.7 my), Count = 2357
+        159.D025, Symbol = r5 mil (r127 my), Count = 151
+        160.D025, Symbol = r13.78 mil (r350 my), Count = 2
+        161.D025, Symbol = r177.17 mil (r4500.12 my), Count = 8
+        162.D025, Symbol = rect106.3x51.18 mil (rect2700.02x1299.97 my), Count = 20
+        163.D025, Symbol = rect31.5x39.37 mil (rect800.1x1000 my), Count = 1
+        164.D025, Symbol = rect29.53x47.24 mil (rect750.06x1199.9 my), Count = 18
+        165.D026, Symbol = r4.02 mil (r102.11 my), Count = 7
+        166.D026, Symbol = r66.93 mil (r1700.02 my), Count = 34
+        167.D026, Symbol = rect110.24x39.37 mil (rect2800.1x1000 my), Count = 1
+        168.D026, Symbol = r19.69 mil (r500.13 my), Count = 16
+        169.D026, Symbol = rect66.93x84.65 mil (rect1700.02x2150.11 my), Count = 6
+        170.D026, Symbol = r5.2 mil (r132.08 my), Count = 187
+        171.D026, Symbol = rect45.28x21.65 mil (rect1150.11x549.91 my), Count = 8
+        172.D026, Symbol = r9.84 mil (r249.94 my), Count = 153
+        173.D027, Symbol = r6 mil (r152.4 my), Count = 170
+        174.D027, Symbol = rect112.2x57.09 mil (rect2849.88x1450.09 my), Count = 20
+        175.D027, Symbol = oval51.18x62.99 mil (oval1299.97x1599.95 my), Count = 50
+        176.D027, Symbol = s173.23 mil (s4400.04 my), Count = 1
+        177.D027, Symbol = i274x.vb_custom_rectangle2.39x1.875_1_mirrored.d27 mil (i274x.vb_custom_rectangle2.39x1.875_1_mirrored.d27 my), Count = 1
+        178.D027, Symbol = r29.53 mil (r750.06 my), Count = 1
+        179.D027, Symbol = r8 mil (r203.2 my), Count = 165
+        180.D027, Symbol = i274x.vb_custom_rectangle1.9x1.3_1_mirrored.d27 mil (i274x.vb_custom_rectangle1.9x1.3_1_mirrored.d27 my), Count = 1
+        181.D028, Symbol = rect57.09x68.9 mil (rect1450.09x1750.06 my), Count = 4
+        182.D028, Symbol = r6 mil (r152.4 my), Count = 15
+        183.D028, Symbol = r51.18 mil (r1299.97 my), Count = 4
+        184.D028, Symbol = oval7.87x33.46 mil (oval199.9x849.89 my), Count = 24
+        185.D028, Symbol = r8 mil (r203.2 my), Count = 37
+        186.D028, Symbol = r72.83 mil (r1849.88 my), Count = 13
+        187.D028, Symbol = oval47.24x15.75 mil (oval1199.9x400.05 my), Count = 8
+        188.D029, Symbol = r4 mil (r101.6 my), Count = 29
+        189.D029, Symbol = oval33.46x7.87 mil (oval849.89x199.9 my), Count = 24
+        190.D029, Symbol = oval78.74x23.62 mil (oval2000x599.95 my), Count = 30
+        191.D029, Symbol = r47.24 mil (r1199.9 my), Count = 4
+        192.D029, Symbol = r15.75 mil (r400.05 my), Count = 727
+        193.D029, Symbol = s72.83 mil (s1849.88 my), Count = 4
+        194.D029, Symbol = oval57.09x68.9 mil (oval1450.09x1750.06 my), Count = 21
+        195.D030, Symbol = rect165.35x94.49 mil (rect4199.89x2400.05 my), Count = 1
+        196.D030, Symbol = oval7.87x35.43 mil (oval199.9x899.92 my), Count = 28
+        197.D030, Symbol = r25.59 mil (r649.99 my), Count = 4
+        198.D030, Symbol = rect53.15x45.28 mil (rect1350x1150.11 my), Count = 2
+        199.D030, Symbol = rect25.59x23.62 mil (rect649.99x599.95 my), Count = 650
+        200.D030, Symbol = r10 mil (r254 my), Count = 413
+        201.D030, Symbol = oval11.81x37.4 mil (oval299.98x949.96 my), Count = 24
+        202.D031, Symbol = rect181.1x94.49 mil (rect4599.94x2400.05 my), Count = 1
+        203.D031, Symbol = rect37.4x45.28 mil (rect949.96x1150.11 my), Count = 1
+        204.D031, Symbol = oval35.43x7.87 mil (oval899.92x199.9 my), Count = 28
+        205.D031, Symbol = rect35.43x39.37 mil (rect899.92x1000 my), Count = 68
+        206.D031, Symbol = r35.43 mil (r899.92 my), Count = 4
+        207.D031, Symbol = oval37.4x11.81 mil (oval949.96x299.98 my), Count = 24
+        208.D031, Symbol = r6.5 mil (r165.1 my), Count = 17
+        209.D032, Symbol = rect55.12x45.28 mil (rect1400.05x1150.11 my), Count = 16
+        210.D032, Symbol = rect88.58x92.52 mil (rect2249.93x2350 my), Count = 2
+        211.D032, Symbol = r39.37 mil (r1000 my), Count = 41
+        212.D032, Symbol = rect116.14x45.28 mil (rect2949.96x1150.11 my), Count = 1
+        213.D032, Symbol = r98.43 mil (r2500.12 my), Count = 2
+        214.D032, Symbol = rect23.62x25.59 mil (rect599.95x649.99 my), Count = 582
+        215.D033, Symbol = s214.57 mil (s5450.08 my), Count = 1
+        216.D033, Symbol = oval25.59x76.77 mil (oval649.99x1949.96 my), Count = 48
+        217.D033, Symbol = r12 mil (r304.8 my), Count = 1
+        218.D033, Symbol = rect29.53x21.65 mil (rect750.06x549.91 my), Count = 6
+        219.D033, Symbol = i274x.vb_custom_rectangle2.05x1.45_1_mirrored.d33 mil (i274x.vb_custom_rectangle2.05x1.45_1_mirrored.d33 my), Count = 1
+        220.D033, Symbol = rect106.3x51.18 mil (rect2700.02x1299.97 my), Count = 6
+        221.D034, Symbol = oval11.81x39.37 mil (oval299.98x1000 my), Count = 28
+        222.D034, Symbol = r7.09 mil (r180.09 my), Count = 8
+        223.D034, Symbol = oval23.62x53.15 mil (oval599.95x1350 my), Count = 10
+        224.D034, Symbol = oval10.63x33.46 mil (oval270x849.89 my), Count = 8
+        225.D034, Symbol = rect55.12x47.24 mil (rect1400.05x1199.9 my), Count = 2
+        226.D034, Symbol = r57.09 mil (r1450.09 my), Count = 2
+        227.D035, Symbol = rect39.37x35.43 mil (rect1000x899.92 my), Count = 52
+        228.D035, Symbol = oval33.46x10.63 mil (oval849.89x270 my), Count = 40
+        229.D035, Symbol = oval39.37x11.81 mil (oval1000x299.98 my), Count = 28
+        230.D035, Symbol = rect15.75x39.37 mil (rect400.05x1000 my), Count = 40
+        231.D035, Symbol = r5.51 mil (r139.96 my), Count = 1
+        232.D035, Symbol = oval53.15x21.65 mil (oval1350x549.91 my), Count = 8
+        233.D036, Symbol = rect94.49x98.43 mil (rect2400.05x2500.12 my), Count = 2
+        234.D036, Symbol = i274x.vb_custom_rectangle2.24x1.725_1.d36 mil (i274x.vb_custom_rectangle2.24x1.725_1.d36 my), Count = 3
+        235.D036, Symbol = i274x.vb_custom_rectangle4.05x2.05_1_mirrored.d36 mil (i274x.vb_custom_rectangle4.05x2.05_1_mirrored.d36 my), Count = 2
+        236.D036, Symbol = rect25.59x23.62 mil (rect649.99x599.95 my), Count = 774
+        237.D036, Symbol = oval84.65x29.53 mil (oval2150.11x750.06 my), Count = 30
+        238.D036, Symbol = r255.91 mil (r6500.12 my), Count = 7
+        239.D037, Symbol = oval31.5x82.68 mil (oval800.1x2100.07 my), Count = 48
+        240.D037, Symbol = r236.22 mil (r6000 my), Count = 4
+        241.D037, Symbol = rect57.09x112.2 mil (rect1450.09x2849.88 my), Count = 4
+        242.D037, Symbol = rect23.62x25.59 mil (rect599.95x649.99 my), Count = 710
+        243.D037, Symbol = rect21.65x29.53 mil (rect549.91x750.06 my), Count = 4
+        244.D037, Symbol = r11.81 mil (r299.98 my), Count = 491
+        245.D038, Symbol = rect35.43x39.37 mil (rect899.92x1000 my), Count = 118
+        246.D038, Symbol = rect51.18x106.3 mil (rect1299.97x2700.02 my), Count = 10
+        247.D038, Symbol = oval15.75x66.93 mil (oval400.05x1700.02 my), Count = 20
+        248.D038, Symbol = rect61.02x53.15 mil (rect1549.91x1350 my), Count = 2
+        249.D038, Symbol = rect76.77x94.49 mil (rect1949.96x2400.05 my), Count = 2
+        250.D038, Symbol = rect45.28x55.12 mil (rect1150.11x1400.05 my), Count = 20
+        251.D039, Symbol = rect23.62x41.34 mil (rect599.95x1050.04 my), Count = 56
+        252.D039, Symbol = r66.93 mil (r1700.02 my), Count = 13
+        253.D039, Symbol = s102.36 mil (s2599.95 my), Count = 2
+        254.D039, Symbol = rect21.65x45.28 mil (rect549.91x1150.11 my), Count = 40
+        255.D039, Symbol = r53.15 mil (r1350 my), Count = 2
+        256.D039, Symbol = oval53.15x23.62 mil (oval1350x599.95 my), Count = 15
+        257.D040, Symbol = oval23.62x78.74 mil (oval599.95x2000 my), Count = 22
+        258.D040, Symbol = oval10.63x31.5 mil (oval270x800.1 my), Count = 36
+        259.D040, Symbol = rect171.26x100.39 mil (rect4350x2549.91 my), Count = 1
+        260.D040, Symbol = s66.93 mil (s1700.02 my), Count = 4
+        261.D040, Symbol = oval78.74x23.62 mil (oval2000x599.95 my), Count = 8
+        262.D040, Symbol = i274x.vb_custom_rectangle2.39x1.875_1.d40 mil (i274x.vb_custom_rectangle2.39x1.875_1.d40 my), Count = 3
+        263.D041, Symbol = rect51.18x78.74 mil (rect1299.97x2000 my), Count = 2
+        264.D041, Symbol = s190.94 mil (s4849.88 my), Count = 1
+        265.D041, Symbol = rect187.01x100.39 mil (rect4750.06x2549.91 my), Count = 1
+        266.D041, Symbol = r45.28 mil (r1150.11 my), Count = 5
+        267.D041, Symbol = oval31.5x10.63 mil (oval800.1x270 my), Count = 36
+        268.D041, Symbol = rect15.75x39.37 mil (rect400.05x1000 my), Count = 8
+        269.D042, Symbol = rect23.62x47.24 mil (rect599.95x1199.9 my), Count = 4
+        270.D042, Symbol = oval35.43x10.63 mil (oval899.92x270 my), Count = 36
+        271.D042, Symbol = r17.72 mil (r450.09 my), Count = 491
+        272.D042, Symbol = i274x.vb_custom_rectangle2.24x1.725_1_mirrored.d42 mil (i274x.vb_custom_rectangle2.24x1.725_1_mirrored.d42 my), Count = 1
+        273.D042, Symbol = rect41.34x23.62 mil (rect1050.04x599.95 my), Count = 37
+        274.D042, Symbol = rect61.02x51.18 mil (rect1549.91x1299.97 my), Count = 16
+        275.D043, Symbol = r255.91 mil (r6500.12 my), Count = 7
+        276.D043, Symbol = rect55.12x47.24 mil (rect1400.05x1199.9 my), Count = 2
+        277.D043, Symbol = rect57.09x112.2 mil (rect1450.09x2849.88 my), Count = 10
+        278.D043, Symbol = oval10.63x35.43 mil (oval270x899.92 my), Count = 36
+        279.D043, Symbol = rect228.35x100.39 mil (rect5800.09x2549.91 my), Count = 4
+        280.D043, Symbol = rect68.9x57.09 mil (rect1750.06x1450.09 my), Count = 7
+        281.D044, Symbol = oval68.9x57.09 mil (oval1750.06x1450.09 my), Count = 31
+        282.D044, Symbol = rect78.74x106.3 mil (rect2000x2700.02 my), Count = 6
+        283.D044, Symbol = r236.22 mil (r6000 my), Count = 4
+        284.D044, Symbol = rect41.34x23.62 mil (rect1050.04x599.95 my), Count = 24
+        285.D044, Symbol = s108.27 mil (s2750.06 my), Count = 2
+        286.D045, Symbol = rect137.8x90.55 mil (rect3500.12x2299.97 my), Count = 6
+        287.D045, Symbol = oval53.15x23.62 mil (oval1350x599.95 my), Count = 65
+        288.D045, Symbol = oval14.57x35.43 mil (oval370.08x899.92 my), Count = 36
+        289.D045, Symbol = rect23.62x41.34 mil (rect599.95x1050.04 my), Count = 18
+        290.D045, Symbol = rect35.43x27.56 mil (rect899.92x700.03 my), Count = 6
+        291.D046, Symbol = rect39.37x15.75 mil (rect1000x400.05 my), Count = 8
+        292.D046, Symbol = rect31.5x51.18 mil (rect800.1x1299.97 my), Count = 8
+        293.D046, Symbol = oval16.54x39.37 mil (oval420.12x1000 my), Count = 8
+        294.D046, Symbol = oval35.43x14.57 mil (oval899.92x370.08 my), Count = 36
+        295.D046, Symbol = oval59.06x15.75 mil (oval1500.13x400.05 my), Count = 30
+        296.D047, Symbol = rect39.37x35.43 mil (rect1000x899.92 my), Count = 124
+        297.D047, Symbol = rect29.53x53.15 mil (rect750.06x1350 my), Count = 4
+        298.D047, Symbol = i274x.vb_custom_rectangle2.24x1.725_1_mirrored.d47 mil (i274x.vb_custom_rectangle2.24x1.725_1_mirrored.d47 my), Count = 1
+        299.D047, Symbol = rect82.68x118.11 mil (rect2100.07x3000 my), Count = 4
+        300.D047, Symbol = oval39.37x16.54 mil (oval1000x420.12 my), Count = 40
+        301.D048, Symbol = rect21.65x45.28 mil (rect549.91x1150.11 my), Count = 36
+        302.D048, Symbol = rect51.18x62.99 mil (rect1299.97x1599.95 my), Count = 4
+        303.D048, Symbol = r118.11 mil (r3000 my), Count = 3
+        304.D048, Symbol = oval23.62x53.15 mil (oval599.95x1350 my), Count = 26
+        305.D048, Symbol = i274x.vb_custom_rectangle4.2x2.2_1_mirrored.d48 mil (i274x.vb_custom_rectangle4.2x2.2_1_mirrored.d48 my), Count = 2
+        306.D049, Symbol = rect45.28x55.12 mil (rect1150.11x1400.05 my), Count = 48
+        307.D049, Symbol = rect234.25x106.3 mil (rect5949.95x2700.02 my), Count = 4
+        308.D049, Symbol = rect27.56x35.43 mil (rect700.03x899.92 my), Count = 4
+        309.D049, Symbol = oval51.18x62.99 mil (oval1299.97x1599.95 my), Count = 21
+        310.D049, Symbol = rect51.18x131.89 mil (rect1299.97x3350 my), Count = 4
+        311.D050, Symbol = oval21.65x72.83 mil (oval549.91x1849.88 my), Count = 20
+        312.D050, Symbol = rect47.24x27.56 mil (rect1199.9x700.03 my), Count = 9
+        313.D050, Symbol = rect78.74x51.18 mil (rect2000x1299.97 my), Count = 2
+        314.D050, Symbol = i274x.vb_custom_round1.65_1.d50 mil (i274x.vb_custom_round1.65_1.d50 my), Count = 3
+        315.D050, Symbol = rect55.12x45.28 mil (rect1400.05x1150.11 my), Count = 44
+        316.D051, Symbol = rect47.24x39.37 mil (rect1199.9x1000 my), Count = 2
+        317.D051, Symbol = oval59.06x29.53 mil (oval1500.13x750.06 my), Count = 15
+        318.D051, Symbol = rect61.02x78.74 mil (rect1549.91x2000 my), Count = 6
+        319.D051, Symbol = rect62.99x137.8 mil (rect1599.95x3500.12 my), Count = 4
+        320.D051, Symbol = i274x.vb_custom_round1.65_1.d51 mil (i274x.vb_custom_round1.65_1.d51 my), Count = 3
+        321.D052, Symbol = rect51.18x47.24 mil (rect1299.97x1199.9 my), Count = 12
+        322.D052, Symbol = rect31.5x39.37 mil (rect800.1x1000 my), Count = 1
+        323.D052, Symbol = r112.2 mil (r2849.88 my), Count = 2
+        324.D052, Symbol = rect106.3x51.18 mil (rect2700.02x1299.97 my), Count = 20
+        325.D052, Symbol = rect57.09x68.9 mil (rect1450.09x1750.06 my), Count = 4
+        326.D053, Symbol = rect110.24x39.37 mil (rect2800.1x1000 my), Count = 1
+        327.D053, Symbol = oval57.09x68.9 mil (oval1450.09x1750.06 my), Count = 21
+        328.D053, Symbol = r66.93 mil (r1700.02 my), Count = 13
+        329.D053, Symbol = s112.2 mil (s2849.88 my), Count = 1
+        330.D053, Symbol = rect167.32x82.68 mil (rect4249.93x2100.07 my), Count = 2
+        331.D054, Symbol = s66.93 mil (s1700.02 my), Count = 4
+        332.D054, Symbol = i274x.vb_custom_rectangle1.9x1.3_1_mirrored.d54 mil (i274x.vb_custom_rectangle1.9x1.3_1_mirrored.d54 my), Count = 1
+        333.D054, Symbol = oval29.53x84.65 mil (oval750.06x2150.11 my), Count = 22
+        334.D054, Symbol = rect106.3x78.74 mil (rect2700.02x2000 my), Count = 4
+        335.D054, Symbol = rect143.7x96.46 mil (rect3649.98x2450.09 my), Count = 6
+        336.D055, Symbol = r31.5 mil (r800.1 my), Count = 2
+        337.D055, Symbol = rect212.6x114.17 mil (rect5400.04x2899.92 my), Count = 2
+        338.D055, Symbol = s173.23 mil (s4400.04 my), Count = 1
+        339.D055, Symbol = r51.18 mil (r1299.97 my), Count = 2
+        340.D055, Symbol = rect37.4x57.09 mil (rect949.96x1450.09 my), Count = 8
+        341.D056, Symbol = oval7.87x33.46 mil (oval199.9x849.89 my), Count = 24
+        342.D056, Symbol = rect21.65x45.28 mil (rect549.91x1150.11 my), Count = 8
+        343.D056, Symbol = rect88.58x124.02 mil (rect2249.93x3150.11 my), Count = 4
+        344.D056, Symbol = s135.83 mil (s3450.08 my), Count = 1
+        345.D056, Symbol = oval47.24x15.75 mil (oval1199.9x400.05 my), Count = 8
+        346.D057, Symbol = i274x.vb_custom_rectangle2.39x1.875_1_mirrored.d57 mil (i274x.vb_custom_rectangle2.39x1.875_1_mirrored.d57 my), Count = 1
+        347.D057, Symbol = oval10.63x33.46 mil (oval270x849.89 my), Count = 20
+        348.D057, Symbol = oval29.53x59.06 mil (oval750.06x1500.13 my), Count = 26
+        349.D057, Symbol = oval78.74x23.62 mil (oval2000x599.95 my), Count = 30
+        350.D057, Symbol = oval33.46x7.87 mil (oval849.89x199.9 my), Count = 24
+        351.D058, Symbol = rect57.09x137.8 mil (rect1450.09x3500.12 my), Count = 4
+        352.D058, Symbol = rect51.18x106.3 mil (rect1299.97x2700.02 my), Count = 4
+        353.D058, Symbol = r41.34 mil (r1050.04 my), Count = 2
+        354.D058, Symbol = s208.66 mil (s5299.97 my), Count = 1
+        355.D058, Symbol = oval33.46x10.63 mil (oval849.89x270 my), Count = 36
+        356.D059, Symbol = r57.09 mil (r1450.09 my), Count = 2
+        357.D059, Symbol = rect70.87x88.58 mil (rect1800.1x2249.93 my), Count = 2
+        358.D059, Symbol = rect86.61x135.83 mil (rect2199.9x3450.08 my), Count = 2
+        359.D059, Symbol = oval7.87x35.43 mil (oval199.9x899.92 my), Count = 28
+        360.D059, Symbol = rect61.02x53.15 mil (rect1549.91x1350 my), Count = 2
+        361.D060, Symbol = oval35.43x7.87 mil (oval899.92x199.9 my), Count = 28
+        362.D060, Symbol = r47.24 mil (r1199.9 my), Count = 2
+        363.D060, Symbol = rect84.65x57.09 mil (rect2150.11x1450.09 my), Count = 2
+        364.D060, Symbol = rect92.52x88.58 mil (rect2350x2249.93 my), Count = 2
+        365.D061, Symbol = rect68.9x143.7 mil (rect1750.06x3649.98 my), Count = 4
+        366.D061, Symbol = rect165.35x94.49 mil (rect4199.89x2400.05 my), Count = 1
+        367.D061, Symbol = rect145.67x137.8 mil (rect3700.02x3500.12 my), Count = 4
+        368.D061, Symbol = rect88.58x92.52 mil (rect2249.93x2350 my), Count = 2
+        369.D062, Symbol = rect181.1x94.49 mil (rect4599.94x2400.05 my), Count = 1
+        370.D062, Symbol = s106.3 mil (s2700.02 my), Count = 1
+        371.D062, Symbol = r53.15 mil (r1350 my), Count = 2
+        372.D062, Symbol = oval25.59x76.77 mil (oval649.99x1949.96 my), Count = 48
+        373.D063, Symbol = s124.02 mil (s3150.11 my), Count = 1
+        374.D063, Symbol = rect55.12x45.28 mil (rect1400.05x1150.11 my), Count = 16
+        375.D063, Symbol = rect57.09x53.15 mil (rect1450.09x1350 my), Count = 12
+        376.D063, Symbol = rect55.12x47.24 mil (rect1400.05x1199.9 my), Count = 2
+        377.D064, Symbol = oval39.37x10.63 mil (oval1000x270 my), Count = 14
+        378.D064, Symbol = rect62.99x51.18 mil (rect1599.95x1299.97 my), Count = 7
+        379.D064, Symbol = rect173.23x88.58 mil (rect4400.04x2249.93 my), Count = 2
+        380.D064, Symbol = rect15.75x39.37 mil (rect400.05x1000 my), Count = 40
+        381.D065, Symbol = oval62.99x51.18 mil (oval1599.95x1299.97 my), Count = 31
+        382.D065, Symbol = oval10.63x39.37 mil (oval270x1000 my), Count = 14
+        383.D065, Symbol = rect68.9x57.09 mil (rect1750.06x1450.09 my), Count = 7
+        384.D065, Symbol = i274x.vb_custom_rectangle2.24x1.725_1.d65 mil (i274x.vb_custom_rectangle2.24x1.725_1.d65 my), Count = 3
+        385.D066, Symbol = rect82.68x157.48 mil (rect2100.07x4000 my), Count = 4
+        386.D066, Symbol = rect51.18x106.3 mil (rect1299.97x2700.02 my), Count = 10
+        387.D066, Symbol = rect29.53x21.65 mil (rect750.06x549.91 my), Count = 6
+        388.D066, Symbol = oval68.9x57.09 mil (oval1750.06x1450.09 my), Count = 31
+        389.D067, Symbol = s102.36 mil (s2599.95 my), Count = 2
+        390.D067, Symbol = rect88.58x62.99 mil (rect2249.93x1599.95 my), Count = 2
+        391.D067, Symbol = i274x.vb_custom_round1.65_1.d67 mil (i274x.vb_custom_round1.65_1.d67 my), Count = 2
+        392.D067, Symbol = oval10.63x33.46 mil (oval270x849.89 my), Count = 8
+        393.D068, Symbol = oval33.46x10.63 mil (oval849.89x270 my), Count = 40
+        394.D068, Symbol = rect96.46x92.52 mil (rect2450.09x2350 my), Count = 2
+        395.D068, Symbol = oval10.63x31.5 mil (oval270x800.1 my), Count = 36
+        396.D068, Symbol = i274x.vb_custom_round1.65_1.d68 mil (i274x.vb_custom_round1.65_1.d68 my), Count = 2
+        397.D069, Symbol = rect218.5x120.08 mil (rect5549.9x3050.03 my), Count = 2
+        398.D069, Symbol = oval31.5x10.63 mil (oval800.1x270 my), Count = 36
+        399.D069, Symbol = rect47.24x51.18 mil (rect1199.9x1299.97 my), Count = 8
+        400.D069, Symbol = i274x.vb_custom_rectangle4.05x2.05_1_mirrored.d69 mil (i274x.vb_custom_rectangle4.05x2.05_1_mirrored.d69 my), Count = 2
+        401.D070, Symbol = r19.69 mil (r500.13 my), Count = 1866
+        402.D070, Symbol = r39.37 mil (r1000 my), Count = 5
+        403.D070, Symbol = oval59.06x15.75 mil (oval1500.13x400.05 my), Count = 30
+        404.D070, Symbol = r7.87 mil (r199.9 my), Count = 109
+        405.D070, Symbol = r13.78 mil (r350 my), Count = 318
+        406.D070, Symbol = r14.96 mil (r379.99 my), Count = 7
+        407.D070, Symbol = oval51.18x62.99 mil (oval1299.97x1599.95 my), Count = 25
+        408.D070, Symbol = r5 mil (r127 my), Count = 83946
+        409.D070, Symbol = oval59.06x29.53 mil (oval1500.13x750.06 my), Count = 65
+        410.D070, Symbol = oval10.63x35.43 mil (oval270x899.92 my), Count = 36
+        411.D070, Symbol = rect51.18x61.02 mil (rect1299.97x1549.91 my), Count = 20
+        412.D071, Symbol = r72.83 mil (r1849.88 my), Count = 13
+        413.D071, Symbol = r51.18 mil (r1299.97 my), Count = 2
+        414.D071, Symbol = r15.75 mil (r400.05 my), Count = 1933
+        415.D071, Symbol = r9.84 mil (r249.94 my), Count = 16
+        416.D071, Symbol = r4 mil (r101.6 my), Count = 30
+        417.D071, Symbol = r13.78 mil (r350 my), Count = 365
+        418.D071, Symbol = rect41.34x23.62 mil (rect1050.04x599.95 my), Count = 24
+        419.D071, Symbol = oval64.96x21.65 mil (oval1649.99x549.91 my), Count = 30
+        420.D071, Symbol = oval51.18x62.99 mil (oval1299.97x1599.95 my), Count = 25
+        421.D072, Symbol = r15.75 mil (r400.05 my), Count = 153
+        422.D072, Symbol = r39.37 mil (r1000 my), Count = 2
+        423.D072, Symbol = r3.94 mil (r100.08 my), Count = 8
+        424.D072, Symbol = r118.11 mil (r3000 my), Count = 3
+        425.D072, Symbol = rect51.18x106.3 mil (rect1299.97x2700.02 my), Count = 4
+        426.D072, Symbol = oval62.99x51.18 mil (oval1599.95x1299.97 my), Count = 76
+        427.D072, Symbol = r5.91 mil (r150.12 my), Count = 8
+        428.D073, Symbol = r15 mil (r381 my), Count = 608
+        429.D073, Symbol = s179.13 mil (s4549.9 my), Count = 1
+        430.D073, Symbol = rect70.87x88.58 mil (rect1800.1x2249.93 my), Count = 2
+        431.D073, Symbol = r106.3 mil (r2700.02 my), Count = 6
+        432.D073, Symbol = rect53.15x33.46 mil (rect1350x849.89 my), Count = 9
+        433.D073, Symbol = r12 mil (r304.8 my), Count = 2
+        434.D073, Symbol = s208.66 mil (s5299.97 my), Count = 1
+        435.D074, Symbol = oval10.63x29.53 mil (oval270x750.06 my), Count = 12
+        436.D074, Symbol = rect21.65x29.53 mil (rect549.91x750.06 my), Count = 4
+        437.D074, Symbol = s141.73 mil (s3599.94 my), Count = 1
+        438.D074, Symbol = rect23.62x47.24 mil (rect599.95x1199.9 my), Count = 4
+        439.D075, Symbol = oval15.75x66.93 mil (oval400.05x1700.02 my), Count = 20
+        440.D075, Symbol = rect104.33x39.37 mil (rect2649.98x1000 my), Count = 1
+        441.D075, Symbol = rect228.35x100.39 mil (rect5800.09x2549.91 my), Count = 4
+        442.D075, Symbol = oval14.57x37.4 mil (oval370.08x949.96 my), Count = 16
+        443.D076, Symbol = oval37.4x14.57 mil (oval949.96x370.08 my), Count = 16
+        444.D076, Symbol = i274x.vb_custom_round1.5_1.d76 mil (i274x.vb_custom_round1.5_1.d76 my), Count = 3
+        445.D076, Symbol = rect29.53x21.65 mil (rect750.06x549.91 my), Count = 4
+        446.D076, Symbol = oval53.15x23.62 mil (oval1350x599.95 my), Count = 15
+        447.D077, Symbol = rect72.83x86.61 mil (rect1849.88x2199.9 my), Count = 2
+        448.D077, Symbol = rect92.52x141.73 mil (rect2350x3599.94 my), Count = 2
+        449.D077, Symbol = r106.3 mil (r2700.02 my), Count = 2
+        450.D077, Symbol = i274x.vb_custom_round1.5_1.d77 mil (i274x.vb_custom_round1.5_1.d77 my), Count = 3
+        451.D078, Symbol = s106.3 mil (s2700.02 my), Count = 1
+        452.D078, Symbol = rect98.43x94.49 mil (rect2500.12x2400.05 my), Count = 2
+        453.D078, Symbol = rect21.65x35.43 mil (rect549.91x899.92 my), Count = 2
+        454.D078, Symbol = rect51.18x62.99 mil (rect1299.97x1599.95 my), Count = 4
+        455.D079, Symbol = oval23.62x78.74 mil (oval599.95x2000 my), Count = 22
+        456.D079, Symbol = oval51.18x62.99 mil (oval1299.97x1599.95 my), Count = 21
+        457.D079, Symbol = rect10.63x35.43 mil (rect270x899.92 my), Count = 30
+        458.D079, Symbol = rect151.57x143.7 mil (rect3849.88x3649.98 my), Count = 4
+        459.D080, Symbol = s112.2 mil (s2849.88 my), Count = 2
+        460.D080, Symbol = rect137.8x90.55 mil (rect3500.12x2299.97 my), Count = 6
+        461.D080, Symbol = r25.59 mil (r649.99 my), Count = 2
+        462.D080, Symbol = i274x.vb_custom_rectangle22.1x3.95_1soldermask.d80 mil (i274x.vb_custom_rectangle22.1x3.95_1soldermask.d80 my), Count = 1
+        463.D081, Symbol = rect15.75x39.37 mil (rect400.05x1000 my), Count = 8
+        464.D081, Symbol = rect41.34x19.69 mil (rect1050.04x500.13 my), Count = 8
+        465.D081, Symbol = s129.92 mil (s3299.97 my), Count = 1
+        466.D081, Symbol = rect31.5x51.18 mil (rect800.1x1299.97 my), Count = 8
+        467.D082, Symbol = rect82.68x118.11 mil (rect2100.07x3000 my), Count = 4
+        468.D082, Symbol = rect82.68x167.32 mil (rect2100.07x4249.93 my), Count = 2
+        469.D082, Symbol = i274x.vb_custom_rectangle2.24x1.725_1_mirrored.d82 mil (i274x.vb_custom_rectangle2.24x1.725_1_mirrored.d82 my), Count = 1
+        470.D082, Symbol = oval43.31x14.57 mil (oval1100.08x370.08 my), Count = 14
+        471.D083, Symbol = rect78.74x61.02 mil (rect2000x1549.91 my), Count = 2
+        472.D083, Symbol = oval14.57x43.31 mil (oval370.08x1100.08 my), Count = 14
+        473.D083, Symbol = oval23.62x53.15 mil (oval599.95x1350 my), Count = 26
+        474.D083, Symbol = r35.43 mil (r899.92 my), Count = 2
+        475.D084, Symbol = rect88.58x70.87 mil (rect2249.93x1800.1 my), Count = 2
+        476.D084, Symbol = rect88.58x163.39 mil (rect2249.93x4150.11 my), Count = 4
+        477.D084, Symbol = rect51.18x131.89 mil (rect1299.97x3350 my), Count = 4
+        478.D084, Symbol = rect55.12x47.24 mil (rect1400.05x1199.9 my), Count = 2
+        479.D085, Symbol = rect49.21x106.3 mil (rect1249.94x2700.02 my), Count = 4
+        480.D085, Symbol = rect94.49x68.9 mil (rect2400.05x1750.06 my), Count = 2
+        481.D085, Symbol = r51.18 mil (r1299.97 my), Count = 2
+        482.D086, Symbol = rect78.74x51.18 mil (rect2000x1299.97 my), Count = 2
+        483.D086, Symbol = i274x.vb_custom_rectangle4.05x2.05_1.d86 mil (i274x.vb_custom_rectangle4.05x2.05_1.d86 my), Count = 1
+        484.D086, Symbol = rect102.36x98.43 mil (rect2599.95x2500.12 my), Count = 2
+        485.D087, Symbol = rect53.15x57.09 mil (rect1350x1450.09 my), Count = 8
+        486.D087, Symbol = rect10.63x59.06 mil (rect270x1500.13 my), Count = 20
+        487.D087, Symbol = rect62.99x137.8 mil (rect1599.95x3500.12 my), Count = 4
+        488.D088, Symbol = oval14.57x33.46 mil (oval370.08x849.89 my), Count = 12
+        489.D088, Symbol = rect62.99x70.87 mil (rect1599.95x1800.1 my), Count = 2
+        490.D088, Symbol = r47.24 mil (r1199.9 my), Count = 2
+        491.D089, Symbol = rect66.93x27.56 mil (rect1700.02x700.03 my), Count = 60
+        492.D089, Symbol = rect51.18x47.24 mil (rect1299.97x1199.9 my), Count = 12
+        493.D089, Symbol = rect108.27x43.31 mil (rect2750.06x1100.08 my), Count = 1
+        494.D090, Symbol = rect35.43x27.56 mil (rect899.92x700.03 my), Count = 4
+        495.D090, Symbol = rect167.32x82.68 mil (rect4249.93x2100.07 my), Count = 2
+        496.D090, Symbol = rect84.65x37.4 mil (rect2150.11x949.96 my), Count = 3
+        497.D091, Symbol = rect78.74x92.52 mil (rect2000x2350 my), Count = 2
+        498.D091, Symbol = rect62.99x51.18 mil (rect1599.95x1299.97 my), Count = 7
+        499.D091, Symbol = rect84.65x127.95 mil (rect2150.11x3249.93 my), Count = 1
+        500.D092, Symbol = i274x.vb_custom_rectangle2.24x1.725_1.d92 mil (i274x.vb_custom_rectangle2.24x1.725_1.d92 my), Count = 2
+        501.D092, Symbol = oval62.99x51.18 mil (oval1599.95x1299.97 my), Count = 31
+        502.D092, Symbol = rect27.56x41.34 mil (rect700.03x1050.04 my), Count = 2
+        503.D093, Symbol = rect14.57x39.37 mil (rect370.08x1000 my), Count = 30
+        504.D093, Symbol = i274x.vb_custom_round1.5_1.d93 mil (i274x.vb_custom_round1.5_1.d93 my), Count = 2
+        505.D093, Symbol = rect23.62x51.18 mil (rect599.95x1299.97 my), Count = 8
+        506.D094, Symbol = i274x.vb_custom_rectangle3.9x3.8_1.d94 mil (i274x.vb_custom_rectangle3.9x3.8_1.d94 my), Count = 1
+        507.D094, Symbol = i274x.vb_custom_round1.5_1.d94 mil (i274x.vb_custom_round1.5_1.d94 my), Count = 2
+        508.D094, Symbol = i274x.vb_custom_rectangle22.1x3.95_1soldermask.d94 mil (i274x.vb_custom_rectangle22.1x3.95_1soldermask.d94 my), Count = 1
+        509.D095, Symbol = rect212.6x114.17 mil (rect5400.04x2899.92 my), Count = 2
+        510.D095, Symbol = r112.2 mil (r2849.88 my), Count = 2
+        511.D095, Symbol = oval10.63x59.06 mil (oval270x1500.13 my), Count = 32
+        512.D096, Symbol = s135.83 mil (s3450.08 my), Count = 1
+        513.D096, Symbol = oval59.06x10.63 mil (oval1500.13x270 my), Count = 32
+        514.D096, Symbol = rect47.24x25.59 mil (rect1199.9x649.99 my), Count = 8
+        515.D097, Symbol = rect98.43x106.3 mil (rect2500.12x2700.02 my), Count = 2
+        516.D097, Symbol = rect88.58x173.23 mil (rect2249.93x4400.04 my), Count = 2
+        517.D097, Symbol = oval10.63x33.46 mil (oval270x849.89 my), Count = 20
+        518.D098, Symbol = oval33.46x10.63 mil (oval849.89x270 my), Count = 36
+        519.D098, Symbol = rect84.65x66.93 mil (rect2150.11x1700.02 my), Count = 2
+        520.D098, Symbol = rect10.63x49.21 mil (rect270x1249.94 my), Count = 50
+        521.D099, Symbol = rect86.61x135.83 mil (rect2199.9x3450.08 my), Count = 2
+        522.D099, Symbol = rect94.49x76.77 mil (rect2400.05x1949.96 my), Count = 2
+        523.D099, Symbol = rect23.62x61.02 mil (rect599.95x1549.91 my), Count = 10
+        524.D100, Symbol = rect47.24x70.87 mil (rect1199.9x1800.1 my), Count = 2
+        525.D100, Symbol = rect55.12x112.2 mil (rect1400.05x2849.88 my), Count = 4
+        526.D100, Symbol = rect92.52x88.58 mil (rect2350x2249.93 my), Count = 2
+        527.D101, Symbol = rect145.67x137.8 mil (rect3700.02x3500.12 my), Count = 4
+        528.D101, Symbol = oval16.54x39.37 mil (oval420.12x1000 my), Count = 4
+        529.D102, Symbol = oval39.37x16.54 mil (oval1000x420.12 my), Count = 20
+        530.D102, Symbol = s106.3 mil (s2700.02 my), Count = 2
+        531.D103, Symbol = i274x.vb_custom_rectangle4.2x2.2_1.d103 mil (i274x.vb_custom_rectangle4.2x2.2_1.d103 my), Count = 1
+        532.D103, Symbol = s124.02 mil (s3150.11 my), Count = 1
+        533.D104, Symbol = r31.5 mil (r800.1 my), Count = 2
+        534.D104, Symbol = oval39.37x10.63 mil (oval1000x270 my), Count = 14
+        535.D105, Symbol = rect14.57x62.99 mil (rect370.08x1599.95 my), Count = 20
+        536.D105, Symbol = oval10.63x39.37 mil (oval270x1000 my), Count = 14
+        537.D106, Symbol = rect68.9x76.77 mil (rect1750.06x1949.96 my), Count = 2
+        538.D106, Symbol = rect82.68x157.48 mil (rect2100.07x4000 my), Count = 4
+        539.D107, Symbol = r41.34 mil (r1050.04 my), Count = 2
+        540.D107, Symbol = rect88.58x62.99 mil (rect2249.93x1599.95 my), Count = 2
+        541.D108, Symbol = rect72.83x33.46 mil (rect1849.88x849.89 my), Count = 60
+        542.D108, Symbol = rect96.46x92.52 mil (rect2450.09x2350 my), Count = 2
+        543.D109, Symbol = rect47.24x51.18 mil (rect1199.9x1299.97 my), Count = 8
+        544.D109, Symbol = rect90.55x43.31 mil (rect2299.97x1100.08 my), Count = 3
+        545.D110, Symbol = rect90.55x133.86 mil (rect2299.97x3400.05 my), Count = 1
+        546.D110, Symbol = oval10.63x29.53 mil (oval270x750.06 my), Count = 12
+        547.D111, Symbol = rect104.33x39.37 mil (rect2649.98x1000 my), Count = 1
+        548.D111, Symbol = i274x.vb_custom_rectangle2.39x1.875_1.d111 mil (i274x.vb_custom_rectangle2.39x1.875_1.d111 my), Count = 2
+        549.D112, Symbol = rect29.53x21.65 mil (rect750.06x549.91 my), Count = 4
+        550.D112, Symbol = rect29.53x57.09 mil (rect750.06x1450.09 my), Count = 8
+        551.D113, Symbol = rect72.83x86.61 mil (rect1849.88x2199.9 my), Count = 2
+        552.D113, Symbol = i274x.vb_custom_rectangle4.05x3.95_1.d113 mil (i274x.vb_custom_rectangle4.05x3.95_1.d113 my), Count = 1
+        553.D114, Symbol = rect21.65x35.43 mil (rect549.91x899.92 my), Count = 2
+        554.D114, Symbol = oval14.57x62.99 mil (oval370.08x1599.95 my), Count = 32
+        555.D115, Symbol = oval62.99x14.57 mil (oval1599.95x370.08 my), Count = 32
+        556.D115, Symbol = rect10.63x35.43 mil (rect270x899.92 my), Count = 30
+        557.D116, Symbol = rect104.33x112.2 mil (rect2649.98x2849.88 my), Count = 2
+        558.D116, Symbol = i274x.vb_custom_rectangle22.1x3.95_1.d116 mil (i274x.vb_custom_rectangle22.1x3.95_1.d116 my), Count = 1
+        559.D117, Symbol = r106.3 mil (r2700.02 my), Count = 2
+        560.D117, Symbol = rect14.57x53.15 mil (rect370.08x1350 my), Count = 50
+        561.D118, Symbol = rect41.34x19.69 mil (rect1050.04x500.13 my), Count = 8
+        562.D118, Symbol = rect29.53x66.93 mil (rect750.06x1700.02 my), Count = 10
+        563.D119, Symbol = rect53.15x76.77 mil (rect1350x1949.96 my), Count = 2
+        564.D119, Symbol = rect82.68x167.32 mil (rect2100.07x4249.93 my), Count = 2
+        565.D120, Symbol = rect78.74x61.02 mil (rect2000x1549.91 my), Count = 2
+        566.D121, Symbol = rect88.58x70.87 mil (rect2249.93x1800.1 my), Count = 2
+        567.D122, Symbol = rect49.21x106.3 mil (rect1249.94x2700.02 my), Count = 4
+        568.D123, Symbol = i274x.vb_custom_rectangle4.05x2.05_1.d123 mil (i274x.vb_custom_rectangle4.05x2.05_1.d123 my), Count = 1
+        569.D124, Symbol = r25.59 mil (r649.99 my), Count = 2
+        570.D125, Symbol = rect10.63x59.06 mil (rect270x1500.13 my), Count = 20
+        571.D126, Symbol = rect62.99x70.87 mil (rect1599.95x1800.1 my), Count = 2
+        572.D127, Symbol = r35.43 mil (r899.92 my), Count = 2
+        573.D128, Symbol = rect66.93x27.56 mil (rect1700.02x700.03 my), Count = 60
+        574.D129, Symbol = rect84.65x37.4 mil (rect2150.11x949.96 my), Count = 3
+        575.D130, Symbol = rect84.65x127.95 mil (rect2150.11x3249.93 my), Count = 1
+        576.D131, Symbol = i274x.vb_custom_rectangle2.24x1.725_1.d131 mil (i274x.vb_custom_rectangle2.24x1.725_1.d131 my), Count = 2
+        577.D132, Symbol = rect23.62x51.18 mil (rect599.95x1299.97 my), Count = 8
+        578.D133, Symbol = i274x.vb_custom_rectangle3.9x3.8_1.d133 mil (i274x.vb_custom_rectangle3.9x3.8_1.d133 my), Count = 1
+        579.D134, Symbol = oval10.63x59.06 mil (oval270x1500.13 my), Count = 32
+        580.D135, Symbol = oval59.06x10.63 mil (oval1500.13x270 my), Count = 32
+        581.D136, Symbol = rect98.43x106.3 mil (rect2500.12x2700.02 my), Count = 2
+        582.D137, Symbol = rect10.63x49.21 mil (rect270x1249.94 my), Count = 50
+        583.D138, Symbol = rect23.62x61.02 mil (rect599.95x1549.91 my), Count = 10
+        584.D139, Symbol = rect47.24x70.87 mil (rect1199.9x1800.1 my), Count = 2
+        
